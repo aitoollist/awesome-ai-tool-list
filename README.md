@@ -15,7 +15,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [Finance](#finance)
 
 ## Chat & Text
-
+- [ArticleWizard AI](https://articlewizardai.com) - An AI-powered platform for efficient content creation and media management.
+  - **Tags**: `AI Writing` `Content Creation` `Productivity`
+  - **Pricing**: Free/Premium
+  - **Contact**: info@articlewizardai.com
+  - 
 - [NeatFlow AI](https://neatflowai.com) - A convenient platform to use ChatGPT, Claude & Gemini.
   - **Tags**: `Freemium` `Subscription` `Chatbot` `Productivity`
   - **Pricing**: Credits system
