@@ -91,6 +91,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `Free` `AI` `Development` `Database`
   - **Pricing**: Free tier, Basic, Pro, Enterprise
   - **Contact**: [https://x.com/leenyburger](https://x.com/leenyburger)
+    
+- [AiAgentsBase] (https://aiagentsbase.com/) - Your All-in-One AI Agents Directory
+  - **Tags**: `Free` `AI` `Directory`
+  - **Pricing**: Free
+  - **Contact**: [https://x.com/evantheproduct] (https://x.com/evantheproduct)
   
 ## Writing
 
