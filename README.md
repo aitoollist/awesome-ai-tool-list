@@ -30,6 +30,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `Free` `Subscription` `AI` `Companion` `Mental Health`
   - **Pricing**: Free, Premium
 
+- [Ontosight.ai](https://ontosight.ai) - Your AI Research Assistant for Smarter, Faster Insights
+  - **Tags**: `Free` `Subscription` `AI` `Research Assistant` `Lifescience`
+  - **Pricing**: Free, Pro
+  - - **Contact**: https://x.com/ontosight_ai
+
 ## Image & Art
 
 - [AI Image Generator](https://www.aiimagegenerator.org) - A free AI-powered text-to-image and image-to-image art generator.
