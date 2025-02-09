@@ -32,6 +32,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Image & Art
 
+- [AI Image Generator](https://www.aiimagegenerator.sh) - An AI-driven tool that helps users create customizable, professional logos quickly and efficiently.
+  - **Tags**: `Free` `AI` `Image` `Text-to-Image` `Image-to-Image`
+  - **Pricing**: Free
+  - **Contact**: https://x.com/BeEureka_
+
 - [AI Image Generator](https://www.aiimagegenerator.org) - A free AI-powered text-to-image and image-to-image art generator.
   - **Tags**: `Free` `AI` `Image` `Text-to-Image` `Image-to-Image`
   - **Pricing**: Free
