@@ -130,8 +130,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [Ourdia] (https://ourdia.com/) - Reclaim 5 hours per week
   - **Tags**: `FreeTrial` `Email`
   - **Pricing**: Paid
- 
-  
+
+ - [Online Notes](https://online-notes.com/) – Take quick notes online effortlessly  
+  - **Tags**: `Free` `Productivity`  
+  - **Pricing**: Free
   
 ## Writing
 
