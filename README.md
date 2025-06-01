@@ -134,6 +134,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   
   
 ## Writing
+- [AI Story Generators](https://aistorygenerators.top) - Free AI-powered story generator supporting multiple languages and genres.
+  - **Tags**: `Free` `AI` `Story` `Writing` `Multi-language` `Fantasy` `Sci-Fi` `Romance` `Mystery` `Horror`
+  - **Pricing**: Free
+  - **Contact**: https://aistorygenerators.top
 
 - [AI Joke Generator](https://www.aijokegenerator.org) - An AI-powered joke generator.
   - **Tags**: `Free` `AI` `Joke` `Humor` `Writing`
