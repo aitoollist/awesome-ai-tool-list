@@ -69,6 +69,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `Free` `Subscription` `AI` `Alt text` `Seo` `a11y`
   - **Pricing**: Free, Credits system
   - **Contact**: https://x.com/alttextlab
+ 
+- [Sisif](https://sisif.ai/) - AI Video Generator - Turn Text into Stunning Videos in Seconds
+  - **Tags**: `Free` `Subscription` `AI` `Video` `Art`
+  - **Pricing**: Free, Credits system
+  - **Contact**: https://x.com/sisif_ai
 
 ## Audio & Speech
 
