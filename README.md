@@ -130,6 +130,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [Ourdia] (https://ourdia.com/) - Reclaim 5 hours per week
   - **Tags**: `FreeTrial` `Email`
   - **Pricing**: Paid
+    
+- [AiMatch.pro](https://aimatch.pro/) - Submit your AI tool, gain a dofollow backlink & 500+ niche visits/mo
+  - **Tags**: `Free` `AI` `Directory` `Backlink`
+  - **Pricing**: Free basic / Premium boost
+  - **Contact**: [https://x.com/aimatch_pro](https://x.com/aimatch_pro)
  
   
   
