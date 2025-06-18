@@ -130,9 +130,12 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [Ourdia] (https://ourdia.com/) - Reclaim 5 hours per week
   - **Tags**: `FreeTrial` `Email`
   - **Pricing**: Paid
- 
-  
-  
+
+- [Capalyze](https://capalyze.ai/) - Capalyze is the only AI that lets you capture web data across platforms, run sentiment analysis, and automate it all — through natural language.
+  - **Tags**: `Premium` `Data Analysis` `Web Scraping` `Text Analysis`
+  - **Pricing**: Free, Premium
+  - **Contact**: https://x.com/Capalyze
+
 ## Writing
 
 - [AI Joke Generator](https://www.aijokegenerator.org) - An AI-powered joke generator.
