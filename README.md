@@ -91,7 +91,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free tier, Premium
 
 ## Productivity
-
+- [PassiveCraft](https://www.passive-craft.com) - Turn your content into ready-to-sell digital products like ebooks, guides, or toolkits with just a profile link.
+  - **Tags**: `Free` `AI` `Productivity` `Content Monetization` `Digital Products`
+  - **Pricing**: Free
+  - **Contact**: hello@passive-craft.com
+  - 
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
   - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
   - **Pricing**: Free tier, Premium
