@@ -130,6 +130,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [Ourdia] (https://ourdia.com/) - Reclaim 5 hours per week
   - **Tags**: `FreeTrial` `Email`
   - **Pricing**: Paid
+
+- [3D House Planner] (https://3dhouseplanner.com/) - Free online AI floor plan maker
+  - **Tags**: `Free` `Floor Planner`
+  - **Pricing**: Free
  
   
   
