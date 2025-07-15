@@ -131,7 +131,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `FreeTrial` `Email`
   - **Pricing**: Paid
  
-  
+- [Chronicle] (https://chroniclehq.com/) - Cursor for slides
+  - **Tags**: `AI` `Design` `Productivity`
+  - **Pricing**: Free, Pro, Team
+  - **Contact**: [https://x.com/tejgw] (https://x.com/Chronicle_HQ)
   
 ## Writing
 
