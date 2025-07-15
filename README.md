@@ -161,6 +161,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [TextCraft](https://github.com/suncloudsmoon/TextCraft) - Add-in integrating AI tools into Word.
   - **Tags**: `Free` `AI` `Paraphrasing` `Proofreading` `Writing`
   - **Pricing**: Free
+- [Serplux](https://serplux.com/) - AI writing assistant focused on marketing and business content.
+  - **Tags**: `Free` `Subscription` `AI` `Writing` `Business`
+  - **Pricing**: Paid
 
 ## Finance
 - [SASA](https://www.usesasa.com/) - AI-powered accounting
