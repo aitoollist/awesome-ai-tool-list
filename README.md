@@ -166,3 +166,8 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [SASA](https://www.usesasa.com/) - AI-powered accounting
   - **Tags**: `Free` `Subscription` `AI` `Accoutning` `Bookkeeping` `Receipt Scanning` `Invoicing`
   - **Pricing**: Free tier, Premium
+
+## Real Estate
+- [ReBillion.ai](https://rebillion.ai/) - SaaS platform for AI-powered transaction coordination and workflow automation
+  - **Tags**: `SaaS` `AI` `Real Estate` `Transaction Coordination` `Workflow Automation` `Compliance Tracking`
+  - **Pricing**: Demo available, Subscription plans
