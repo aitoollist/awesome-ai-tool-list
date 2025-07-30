@@ -100,6 +100,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `Free` `AI` `Learning` `Productivity` `Education`
   - **Pricing**: Free tier, Pro
 
+- [Tewtor AI](https://tewtor.ai) - AI-powered tutoring platform with step-by-step problem solving for mathematics, physics, and engineering.
+  - **Tags**: `Free` `Subscription` `AI` `Education` `Math` `Problem Solving` `Tutoring`
+  - **Pricing**: Free tier, Premium
+  - **Contact**: https://www.linkedin.com/company/aitootor
+
 - [Notion](https://www.notion.so) - An all-in-one workspace for notes, tasks, and collaboration.
   - **Tags**: `Free` `Subscription` `Productivity` `Notes` `Collaboration`
   - **Pricing**: Free, Subscription
