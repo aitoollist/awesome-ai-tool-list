@@ -70,6 +70,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free, Credits system
   - **Contact**: https://x.com/alttextlab
 
+- [AI FengYue](https://aiero.com?ref_id=cea3e0a6-2497-49ad-a1b6-125f5d5a2a93) - Free AI chat
+  - `Free` `AI Conversation` `chat bot` `AI Chat`
+  - Engage in free AI conversations with a variety of presets and original content. Includes large language models like Gemini 2.5 Pro, Claude, GPT-4.1, and more.
 ## Audio & Speech
 
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
@@ -166,3 +169,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [SASA](https://www.usesasa.com/) - AI-powered accounting
   - **Tags**: `Free` `Subscription` `AI` `Accoutning` `Bookkeeping` `Receipt Scanning` `Invoicing`
   - **Pricing**: Free tier, Premium
+
+- [AI Cat Navigation](https://ainfo.wiki/) - An AI education navigation site where users can freely submit content.
+  - `Free` `AIGC Navigation` `AI Navigation` `Generative AI Navigation`
+  - A generative artificial intelligence tool navigation platform.
