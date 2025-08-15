@@ -103,6 +103,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [Notion](https://www.notion.so) - An all-in-one workspace for notes, tasks, and collaboration.
   - **Tags**: `Free` `Subscription` `Productivity` `Notes` `Collaboration`
   - **Pricing**: Free, Subscription
+ 
+- [SummaryTube](https://summarytube.com) - AI Youtube Video Summarizer. Get key AI insights, extract key moments and transcription.
+  - **Tags**: `Free` `Subscription` `Productivity` `Youtube` `Summarizer` `AI`
+  - **Pricing**: Free, Subscription
 
 - [Otter.ai](https://otter.ai) - AI meeting transcription and note-taking.
   - **Tags**: `Free` `Subscription` `AI` `Transcription` `Meetings`
@@ -122,7 +126,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `Free` `pie chart` `Productivity` `Business`
   - **Pricing**: Free
     
-- [AiAgentsBase] (https://aiagentsbase.com/) - Your All-in-One AI Agents Directory
+- [AiAgentsBase](https://aiagentsbase.com/) - Your All-in-One AI Agents Directory
   - **Tags**: `Free` `AI` `Directory`
   - **Pricing**: Free
   - **Contact**: [https://x.com/evantheproduct] (https://x.com/evantheproduct)
