@@ -107,6 +107,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [SummaryTube](https://summarytube.com) - AI Youtube Video Summarizer. Get key AI insights, extract key moments and transcription.
   - **Tags**: `Free` `Subscription` `Productivity` `Youtube` `Summarizer` `AI`
   - **Pricing**: Free, Subscription
+  - **Contact**: https://x.com/summarytube
 
 - [Otter.ai](https://otter.ai) - AI meeting transcription and note-taking.
   - **Tags**: `Free` `Subscription` `AI` `Transcription` `Meetings`
