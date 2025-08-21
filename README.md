@@ -130,9 +130,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [Ourdia] (https://ourdia.com/) - Reclaim 5 hours per week
   - **Tags**: `FreeTrial` `Email`
   - **Pricing**: Paid
- 
-  
-  
+
+- [Codeflash](https://www.codeflash.ai/) - Codeflash.AI : Ship Blazing-Fast Python Code — Every Time.
+  - **Tags**: `AI` `Developer Tools` `Performance` `Python` `Productivity`
+  - **Pricing**: Free trial, Pro, Enterprise
+
 ## Writing
 
 - [AI Joke Generator](https://www.aijokegenerator.org) - An AI-powered joke generator.
