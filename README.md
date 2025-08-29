@@ -42,6 +42,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free
   - **Contact**: https://x.com/aiimggenerator
 
+
+- [BoothAI 360](https://www.boothai360.com) - custom AI profile images in seconds. Perfect for social media, resumes, and personal branding!
+  - `Subscription` `AI` `Image-To-Image` `AI clone`
+  - Creates studio-quality AI headshots in under 30 seconds, boosting LinkedIn profile views up to 14×.
+
 - [Lexica](https://lexica.art) - AI art search engine and generation platform.
   - **Tags**: `Free` `AI` `Search` `Generation` `Community`
   - **Pricing**: Free
