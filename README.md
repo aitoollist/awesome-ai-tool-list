@@ -162,6 +162,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `Free` `AI` `Paraphrasing` `Proofreading` `Writing`
   - **Pricing**: Free
 
+- [Waldium](https://waldium.com) - AI blogs to help ChatGPT/Claude/Perplexity cite your product.
+  - **Tags**: `Blogs` `AI` `SEO` `GEO` `Writing`
+  - **Pricing**: Free tier, Pro
+
 ## Finance
 - [SASA](https://www.usesasa.com/) - AI-powered accounting
   - **Tags**: `Free` `Subscription` `AI` `Accoutning` `Bookkeeping` `Receipt Scanning` `Invoicing`
