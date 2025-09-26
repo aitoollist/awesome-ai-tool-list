@@ -100,6 +100,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `Free` `AI` `Learning` `Productivity` `Education`
   - **Pricing**: Free tier, Pro
 
+- [ray3.run](https://ray3.run) - AI-powered tools and applications for developers and businesses to enhance productivity and workflow automation.
+  - **Tags**: `AI` `Productivity` `Development` `Automation`
+  - **Pricing**: Free tier, Premium
+
 - [Notion](https://www.notion.so) - An all-in-one workspace for notes, tasks, and collaboration.
   - **Tags**: `Free` `Subscription` `Productivity` `Notes` `Collaboration`
   - **Pricing**: Free, Subscription
