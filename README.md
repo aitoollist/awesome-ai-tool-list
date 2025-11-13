@@ -42,6 +42,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free
   - **Contact**: https://x.com/aiimggenerator
 
+- [FlashEdit AI](https://flashedit.ai) – All-in-one AI image studio to generate, edit, blend, upscale, and keep characters consistent.
+  - **Tags**: `image-generation` `image-editing` `upscaling` `consistency`
+  - **Pricing**: Free + Paid
+  - **Contact**: support@flashedit.ai
+
 - [Lexica](https://lexica.art) - AI art search engine and generation platform.
   - **Tags**: `Free` `AI` `Search` `Generation` `Community`
   - **Pricing**: Free
