@@ -70,6 +70,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free, Credits system
   - **Contact**: https://x.com/alttextlab
 
+- [SVGs.app](https://svgs.app) - Turn text into stunning SVG illustrations. AI-powered vector graphics. 
+  - **Tags**: `Free` `Subscription` `AI` `Illustration` `Design` `SVG`
+  - **Pricing**: Free, Credits, Subscription
+  - **Contact**: https://x.com/SzaboAkos01
+
 ## Audio & Speech
 
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
