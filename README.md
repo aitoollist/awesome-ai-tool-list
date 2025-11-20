@@ -70,6 +70,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free, Credits system
   - **Contact**: https://x.com/alttextlab
 
+- [Kira.art](https://kira.art/) - AI-powered photo editor that keeps your visual style consistent across galleries and introduces collaborative editing as a new social creative experience.
+  - **Tags**: `AI` `Photo Editing` `Image Enhancement` `Filters` `Social` `Consistency`
+  - **Pricing**: Freemium, Credits system
+  - **Contact**: https://x.com/kiraarthq?s=21
+
 ## Audio & Speech
 
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
