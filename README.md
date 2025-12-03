@@ -91,7 +91,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free tier, Premium
 
 ## Productivity
-
+- [Datavist](https://datavist.xyz/) - Extract structured data from web pages
+  - **Tags**: `AI` `Scraping` `Productivity` `Datasets`
+  - **Pricing**: Premium
+  - 
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
   - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
   - **Pricing**: Free tier, Premium
