@@ -100,6 +100,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `Free` `AI` `Learning` `Productivity` `Education`
   - **Pricing**: Free tier, Pro
 
+- [AI VidSummary](https://www.aividsummary.com) - Transform YouTube videos into instant AI-powered summaries in 111 languages using 12 specialized templates, with AI Chat to ask follow-up questions about any video.
+  - **Tags**: `Free` `Freemium` `AI` `Video` `Summarizer` `YouTube` `Productivity` `Learning`
+  - **Pricing**: Free tier, Pro, Premium, Ultimate
+  - **Contact**: https://instagram.com/aividsummary
+
 - [Notion](https://www.notion.so) - An all-in-one workspace for notes, tasks, and collaboration.
   - **Tags**: `Free` `Subscription` `Productivity` `Notes` `Collaboration`
   - **Pricing**: Free, Subscription
