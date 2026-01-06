@@ -70,6 +70,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free, Credits system
   - **Contact**: https://x.com/alttextlab
 
+- [Moire Removal](https://moireremoval.com) - AI-powered moiré pattern removal tool that removes interference patterns from screen photos, scanned prints, and projector captures while preserving text and facial details.
+  - **Tags**: `Free` `Freemium` `AI` `Image Enhancement` `Photo Restoration`
+  - **Pricing**: Free tier, Credits system
+
 ## Audio & Speech
 
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
