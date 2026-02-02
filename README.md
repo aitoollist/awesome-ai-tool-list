@@ -13,6 +13,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [Productivity](#productivity)
 - [Writing](#writing)
 - [Finance](#finance)
+- [Development](#development)
 
 ## Chat & Text
 
@@ -166,3 +167,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [SASA](https://www.usesasa.com/) - AI-powered accounting
   - **Tags**: `Free` `Subscription` `AI` `Accoutning` `Bookkeeping` `Receipt Scanning` `Invoicing`
   - **Pricing**: Free tier, Premium
+
+## Development
+
+- [FlyPloy](https://flyploy.com/en) - A modern application deployment platform that simplifies global delivery with one-click deploys, Docker, and Kubernetes support. Ideal for launching AI-assisted applications in seconds.
+  - **Tags**: `PaaS` `Deployment` `Cloud Hosting` `Docker` `Kubernetes` `AI Platform`
+  - **Pricing**: Free tier, Premium
+  - **Contact**: https://github.com/FlyPloy/FlyPloy
