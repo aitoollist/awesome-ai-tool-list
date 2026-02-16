@@ -31,6 +31,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free, Premium
   - **Contact**: https://x.com/character_ai
 
+- [ClawHosters](https://clawhosters.com) - Managed hosting for OpenClaw, the open-source AI agent framework. Deploy AI assistants to Telegram, WhatsApp, Discord, or Slack in under 60 seconds.
+  - **Tags**: `Paid` `AI` `Chatbot` `Hosting` `Automation` `Messaging`
+  - **Pricing**: Paid with free trial
+  - **Contact**: https://x.com/yixn_io
+
 - [Replika](https://replika.com) - An AI companion focused on emotional support and conversation.
   - **Tags**: `Free` `Subscription` `AI` `Companion` `Mental Health`
   - **Pricing**: Free, Premium
