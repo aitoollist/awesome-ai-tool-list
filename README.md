@@ -127,6 +127,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free
   - **Contact**: [https://x.com/evantheproduct] (https://x.com/evantheproduct)
  
+- [ZeroGTM](https://www.gtm-zero.com) - Open-source AI SDR agent that automates outbound sales — from lead research to personalized outreach — replacing expensive sales tools.
+  - **Tags**: `Free` `Open Source` `AI` `Sales` `SDR` `Outbound` `Lead Generation`
+  - **Pricing**: Free, Open Source
+  - **Contact**: https://github.com/man0l/zero-gtm
+
 - [Ourdia] (https://ourdia.com/) - Reclaim 5 hours per week
   - **Tags**: `FreeTrial` `Email`
   - **Pricing**: Paid
