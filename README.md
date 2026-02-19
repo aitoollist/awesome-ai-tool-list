@@ -112,6 +112,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [SocialPilot AI Schedule](https://chatgpt.com/g/g-67b5982938d881918a04bc76979557fc-socialpilot-ai-scheduler) - The tool helps schedule, publish, and manage posts across multiple social platforms.
   - **Tags**: `Social Media AI Scheduler` `Social Media Management` `Social Media Marketing`
   - **Pricing**: Free
+
+- [Taskade](https://github.com/taskade/taskade) - AI-native workspace to build apps, deploy AI agents, and automate workflows.
+  - **Tags**: `Freemium` `AI` `Productivity` `Project Management` `Automation`
+  - **Pricing**: Free tier, Pro, Business
+  - **Contact**: https://x.com/taskade
   
 - [HelloQuery](https://www.helloquery.com) - Lets your customers (or your team) chat directly with their data. 
   - **Tags**: `Free` `AI` `Development` `Database`
