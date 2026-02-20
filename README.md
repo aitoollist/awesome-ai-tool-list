@@ -90,6 +90,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `Free` `Subscription` `AI` `Voice` `Text-to-Speech`
   - **Pricing**: Free tier, Premium
 
+- [NovaDub](https://www.novadub.ai) - AI video dubbing platform that translates videos into 29+ languages with voice cloning.
+  - **Tags**: `Free` `Subscription` `AI` `Video` `Dubbing` `Voice Cloning` `Translation`
+  - **Pricing**: Free tier, Pay-as-you-go
+
 ## Productivity
 
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
