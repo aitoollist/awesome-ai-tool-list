@@ -1,5 +1,8 @@
 # Awesome AI Tool List [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+## Tools
+- [TutuoAI](https://www.tutuoai.com/) — $1 agent marketplace (skills/tools/configs) built for agents
+
 A curated list of awesome AI tools and applications. Visit [https://www.aitoollist.org](https://www.aitoollist.org) for a searchable interface.
 
 ## Contributing
