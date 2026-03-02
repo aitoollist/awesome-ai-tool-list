@@ -166,3 +166,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [SASA](https://www.usesasa.com/) - AI-powered accounting
   - **Tags**: `Free` `Subscription` `AI` `Accoutning` `Bookkeeping` `Receipt Scanning` `Invoicing`
   - **Pricing**: Free tier, Premium
+
+## Hardware & Self-Hosted
+
+- [ClawBox](https://openclawhardware.dev) - Pre-built AI assistant hardware device powered by NVIDIA Jetson Orin Nano Super (67 TOPS). Runs local LLMs, voice AI, browser automation, and multi-platform messaging. 5-minute setup, 15W silent operation.
+  - **Tags**: `Hardware` `AI` `Self-Hosted` `Privacy` `NVIDIA` `Jetson` `OpenClaw` `Voice AI` `Browser Automation`
+  - **Pricing**: €549 one-time
+  - **Contact**: https://discord.gg/FbKmnxYnpq
