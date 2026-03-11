@@ -12,6 +12,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [Audio & Speech](#audio--speech)
 - [Productivity](#productivity)
 - [Writing](#writing)
+- [Gaming](#gaming)
 - [Finance](#finance)
 
 ## Chat & Text
@@ -161,6 +162,13 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [TextCraft](https://github.com/suncloudsmoon/TextCraft) - Add-in integrating AI tools into Word.
   - **Tags**: `Free` `AI` `Paraphrasing` `Proofreading` `Writing`
   - **Pricing**: Free
+
+## Gaming
+
+- [BeyondPlay](https://www.beyondplay.xyz) - AI game creator that builds fully playable multiplayer browser games from text descriptions. No coding required.
+  - **Tags**: `Free` `AI` `Game Creator` `No-Code` `Multiplayer` `Browser Games`
+  - **Pricing**: Free
+  - **Contact**: https://x.com/beyondplay_xyz
 
 ## Finance
 - [SASA](https://www.usesasa.com/) - AI-powered accounting
