@@ -118,6 +118,12 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free tier, Basic, Pro, Enterprise
   - **Contact**: [https://x.com/leenyburger](https://x.com/leenyburger)
 
+- [AI for Database](https://aifordatabase.com) - Connect to any database and interact with it in plain English. No SQL needed — get instant insights, build self-refreshing dashboards, and trigger automated workflows based on database changes.
+  - **Tags**: `Freemium` `AI` `Database` `Analytics` `No-Code`
+  - **Pricing**: Freemium
+  - **Contact**: dhrumil@aifordatabase.com
+
+
 - [Pie Chart Maker](https://piechartmaker.site) - Create Free Pie Charts Instantly
   - **Tags**: `Free` `pie chart` `Productivity` `Business`
   - **Pricing**: Free
