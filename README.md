@@ -72,6 +72,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Audio & Speech
 
+- [VizzyVid](https://vizzyvid.com) - AI music video generator. Drop your audio track and get a full AI-synced music video back automatically.
+  - **Tags**: `Free` `AI` `Music Video` `Video Generation` `Music` `Audio`
+  - **Pricing**: Free (paid tier coming soon)
+  - **Contact**: hello@imagey.ai
+
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
   - **Tags**: `Free` `Subscription` `AI` `Voice` `Text-to-Speech`
   - **Pricing**: Free tier, Premium
@@ -92,6 +97,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Productivity
 
+- [VoxCV](https://voxcv.ai) - Voice-first AI CV builder. Talk through your work history and VoxCV automatically writes, formats, and exports a professional CV.
+  - **Tags**: `Free` `AI` `CV Builder` `Resume` `Voice` `Career` `Job Search`
+  - **Pricing**: Free (paid tier coming soon)
+  - **Contact**: hello@imagey.ai
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
   - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
   - **Pricing**: Free tier, Premium
