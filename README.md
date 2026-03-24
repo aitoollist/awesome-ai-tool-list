@@ -69,6 +69,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `Free` `Subscription` `AI` `Alt text` `Seo` `a11y`
   - **Pricing**: Free, Credits system
   - **Contact**: https://x.com/alttextlab
+ 
+- [Editaimg](https://editaimg.com/) - AI-powered image editor that swaps backgrounds, edits in-image text, and removes objects via text prompts.
+  - **Tags**: `Free` `Subscription` `AI` `Image Editor` `SEO` `Ecommerce`
+  - **Pricing**: Free tier available with 10 credits; $9.9 (160), $29.9 (800), $49.9 (4000)
 
 ## Audio & Speech
 
