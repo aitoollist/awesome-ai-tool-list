@@ -12,6 +12,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [Audio & Speech](#audio--speech)
 - [Productivity](#productivity)
 - [Writing](#writing)
+- [Legal & Compliance](#legal--compliance)
 - [Finance](#finance)
 
 ## Chat & Text
@@ -161,6 +162,12 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [TextCraft](https://github.com/suncloudsmoon/TextCraft) - Add-in integrating AI tools into Word.
   - **Tags**: `Free` `AI` `Paraphrasing` `Proofreading` `Writing`
   - **Pricing**: Free
+
+## Legal & Compliance
+
+- [CoverMyAI](https://covermyai.xyz) - AI governance toolkit that helps small businesses keep their insurance coverage intact as carriers add AI exclusion endorsements.
+  - **Tags**: `Freemium` `AI` `Governance` `Compliance` `Insurance` `Legal` `Small Business`
+  - **Pricing**: Free tools + $29 one-time governance kit
 
 ## Finance
 - [SASA](https://www.usesasa.com/) - AI-powered accounting
