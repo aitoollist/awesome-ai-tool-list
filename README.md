@@ -130,7 +130,12 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [Ourdia] (https://ourdia.com/) - Reclaim 5 hours per week
   - **Tags**: `FreeTrial` `Email`
   - **Pricing**: Paid
- 
+
+- [LocalePack](https://localepack.app/) - AI-powered batch translation for developer locale files (browser extensions, Next.js, i18next, vue-i18n). Preserves placeholders, plurals, and nested keys; one-time payment, instant ZIP download.
+  - **Tags**: `Paid` `AI` `Developer` `i18n` `Translation` `Localization`
+  - **Pricing**: One-time purchase
+  - **Contact**: https://x.com/OlegAbrazhaev
+
   
   
 ## Writing
