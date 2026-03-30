@@ -133,6 +133,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
  
   
   
+- [furn](https://furncmo.com) - AI-powered marketing platform for furniture retailers. Generate photorealistic room scenes, ad creative, and full marketing campaigns in minutes.
+  - **Tags**: `Freemium` `AI` `Marketing` `Furniture` `Image Generation` `SaaS`
+  - **Pricing**: Free tier, Premium
+  - **Contact**: https://furncmo.com
+
 ## Writing
 
 - [AI Joke Generator](https://www.aijokegenerator.org) - An AI-powered joke generator.
