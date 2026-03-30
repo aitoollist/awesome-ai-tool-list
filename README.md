@@ -113,10 +113,14 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `Social Media AI Scheduler` `Social Media Management` `Social Media Marketing`
   - **Pricing**: Free
   
-- [HelloQuery](https://www.helloquery.com) - Lets your customers (or your team) chat directly with their data. 
+- [HelloQuery](https://www.helloquery.com) - Lets your customers (or your team) chat directly with their data.
   - **Tags**: `Free` `AI` `Development` `Database`
   - **Pricing**: Free tier, Basic, Pro, Enterprise
   - **Contact**: [https://x.com/leenyburger](https://x.com/leenyburger)
+
+- [AI for Database](https://aifordatabase.com) - Connect to any database and interact with it in plain English. No SQL needed — get instant insights, build self-refreshing dashboards, and trigger automated workflows based on database changes.
+  - **Tags**: `Freemium` `AI` `Database` `Analytics` `Productivity` `Natural Language` `Dashboards` `Workflows`
+  - **Pricing**: Free tier, Pro
 
 - [Pie Chart Maker](https://piechartmaker.site) - Create Free Pie Charts Instantly
   - **Tags**: `Free` `pie chart` `Productivity` `Business`
