@@ -92,6 +92,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Productivity
 
+- [AIfolio.cz](https://aifolio.cz) - Czech AI tools directory with 60+ curated tools across 10 categories. Discover the best AI tools for your needs.
+  - **Tags**: `Free` `AI` `Directory` `Czech` `Tools` `Discovery`
+  - **Pricing**: Free
+  - **Contact**: https://x.com/AifolioCz
+
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
   - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
   - **Pricing**: Free tier, Premium
