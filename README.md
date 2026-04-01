@@ -70,6 +70,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free, Credits system
   - **Contact**: https://x.com/alttextlab
 
+- [NeuroBulls](https://neurobulls.com/) - AI agency for hyper-realistic visual production, automation, and prompt engineering. Creates photos, videos, and AI models for businesses.
+  - **Tags**: `AI` `Photography` `Video` `Agency` `Prompt Engineering` `Automation`
+  - **Pricing**: Custom quotes for services, Digital products from €29
+  - **Contact**: https://instagram.com/neurobulls
+
 ## Audio & Speech
 
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
