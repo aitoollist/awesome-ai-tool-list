@@ -34,6 +34,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [Replika](https://replika.com) - An AI companion focused on emotional support and conversation.
   - **Tags**: `Free` `Subscription` `AI` `Companion` `Mental Health`
   - **Pricing**: Free, Premium
+- [Selasyn](https://selasyn.xyz) - AI-powered mental health companion providing 24/7 conversational support for anxiety, stress, depression, and general wellbeing. A warm, supportive presence available whenever you need it — not a therapy replacement, but a genuine companion for the hard moments.
+  - **Tags**: `Freemium` `AI` `Companion` `Mental Health` `Chatbot` `Wellness`
+  - **Pricing**: Free tier, Premium
+  - **Contact**: gregnorthrup86@gmail.com
+
 
 ## Image & Art
 
