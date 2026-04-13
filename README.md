@@ -163,6 +163,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free
 
 ## Finance
+- [Helium](https://heliumtrades.com) - AI-powered news intelligence with bias scoring across 5,000+ sources and 15+ dimensions, balanced news synthesis, live market data with AI bull/bear analysis, ML options pricing, and meme search.
+  - **Tags**: `Free` `AI` `Finance` `News` `MCP` `Market Data` `Options` `Bias Detection`
+  - **Pricing**: Free tier (50 free queries via [MCP server](https://heliumtrades.com/mcp-page/))
+
 - [SASA](https://www.usesasa.com/) - AI-powered accounting
   - **Tags**: `Free` `Subscription` `AI` `Accoutning` `Bookkeeping` `Receipt Scanning` `Invoicing`
   - **Pricing**: Free tier, Premium
