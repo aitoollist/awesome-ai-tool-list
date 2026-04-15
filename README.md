@@ -1,4 +1,4 @@
-# Awesome AI Tool List [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<img width="432" height="18" alt="image" src="https://github.com/user-attachments/assets/cf7c59ef-7b33-466d-833c-1822161f3057" /># Awesome AI Tool List [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome AI tools and applications. Visit [https://www.aitoollist.org](https://www.aitoollist.org) for a searchable interface.
 
@@ -135,6 +135,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   
 ## Writing
 
+- [ZeroGPT Plus](https://www.zerogpt.plus/) - An Free AI Content Detector.
+  - **Tags**: `Free` `No Login` `AI Humanizer` `ChatGPT checker` `AI Plagiarism Checker`
+  - **Pricing**: Free tier, Premium
+  - **Contact**:  https://x.com/zerogpt01
+    
 - [AI Joke Generator](https://www.aijokegenerator.org) - An AI-powered joke generator.
   - **Tags**: `Free` `AI` `Joke` `Humor` `Writing`
   - **Pricing**: Free
