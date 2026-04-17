@@ -133,6 +133,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
  
   
   
+- [AI Dev Tools Directory](https://aidevtools-3qf.pages.dev) - A comprehensive directory comparing 61 AI coding models from 10 providers with benchmarks, pricing, and use cases.
+  - **Tags**: `Free` `Open Source` `AI` `Developer Tools` `Directory` `Benchmarks`
+  - **Pricing**: Free
+  - **Contact**: https://github.com/dwylq
 ## Writing
 
 - [AI Joke Generator](https://www.aijokegenerator.org) - An AI-powered joke generator.
