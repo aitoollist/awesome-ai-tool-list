@@ -108,7 +108,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `Free` `Subscription` `AI` `Transcription` `Meetings`
   - **Pricing**: Free tier, Pro
   - **Contact**: https://x.com/otter_ai
-
+ 
+- [MindMap AI](https://mindmapai.app/text-summarizer) - AI-powered tool that transforms text, documents, and multimedia into structured visual mind maps for learning, research, and productivity.
+  - **Tags**: `Free` `Subscription` `AI` `Mind Mapping` `Productivity` `Research` `Education`
+  - **Pricing**: Free tier, Subscription
+  - 
 - [SocialPilot AI Schedule](https://chatgpt.com/g/g-67b5982938d881918a04bc76979557fc-socialpilot-ai-scheduler) - The tool helps schedule, publish, and manage posts across multiple social platforms.
   - **Tags**: `Social Media AI Scheduler` `Social Media Management` `Social Media Marketing`
   - **Pricing**: Free
