@@ -130,9 +130,12 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [Ourdia] (https://ourdia.com/) - Reclaim 5 hours per week
   - **Tags**: `FreeTrial` `Email`
   - **Pricing**: Paid
- 
-  
-  
+
+- [IndexFox](https://indexfox.ai) - AI-powered search widget for websites with automatic crawling, hybrid search, and instant AI answers.
+  - **Tags**: `Freemium` `AI` `Search` `SaaS` `SEO` `Semantic Search`
+  - **Pricing**: Free tier, Pro
+  - **Contact**: https://x.com/indexfoxai
+
 ## Writing
 
 - [AI Joke Generator](https://www.aijokegenerator.org) - An AI-powered joke generator.
