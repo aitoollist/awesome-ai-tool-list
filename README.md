@@ -91,6 +91,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free tier, Premium
 
 ## Productivity
+- [Startup.Ready.](https://startupreadinessscore.com) - Structured readiness assessment for early-stage startups across 6 foundational pillars to surface the gaps founders need to fix before they commit.
+  - `Freemium` `AI` `Startup` `Assessment` `Decision Intelligence`
+  - Free for up to 2 assessments — no credit card required.
 
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
   - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
