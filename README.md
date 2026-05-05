@@ -32,6 +32,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Contact**: https://x.com/character_ai
 
 - [Replika](https://replika.com) - An AI companion focused on emotional support and conversation.
+  - **Tags**: `Freemium` `Subscription` `AI` `Companion`
+
+- [Kissable](https://kissable.app) - AI companion with persistent memory, together photos, video generation, community scenario catalog, emotional voice, and unlimited messages.
+  - **Tags**: `Free Trial` `Subscription` `AI` `Companion` `Role-play`
+  - **Pricing**: Free trial, $19.99/mo
   - **Tags**: `Free` `Subscription` `AI` `Companion` `Mental Health`
   - **Pricing**: Free, Premium
 
