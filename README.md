@@ -130,6 +130,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [Ourdia] (https://ourdia.com/) - Reclaim 5 hours per week
   - **Tags**: `FreeTrial` `Email`
   - **Pricing**: Paid
+
+- [IdeaTwister](https://ideatwister.com) - Locally-run AI engine that turns one rough business idea into 50+ scored variations across 15 strategic angles, for solo founders who want to validate before they build.
+  - **Tags**: `AI` `Idea Validation` `Founders` `Research` `Productivity`
+  - **Pricing**: Paid ($39 one-time, no subscription)
  
   
   
