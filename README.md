@@ -131,6 +131,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `FreeTrial` `Email`
   - **Pricing**: Paid
  
+- [TypoGuard](https://typoguard.vip/) - AI-powered real-time spell check correction and grammar assistant for Google Chrome
+  - **Tags**: `Free` `AI` `Writing` `Productivity` `Education` `Spellcheck`
+  - **Pricing**: Free tier, Pro
   
   
 ## Writing
