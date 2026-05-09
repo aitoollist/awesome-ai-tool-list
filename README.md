@@ -130,6 +130,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [Ourdia] (https://ourdia.com/) - Reclaim 5 hours per week
   - **Tags**: `FreeTrial` `Email`
   - **Pricing**: Paid
+
+- [Token counter] (https://freetechtoolz.com/tools/free-online-token-counter ) - AI Token Counter
+  - **Tags**: `Token Counter` `AI Token counter` `Token counter online`
+  - **Pricing**: Free
  
   
   
