@@ -37,6 +37,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Image & Art
 
+- [LandscapioAI](https://www.landscapioai.com/) - AI landscape design generator and outdoor project planner that turns yard, garden, patio, and outdoor photos into design concepts, planting ideas, and cost-aware project plans.
+  - **Tags**: `Free` `Freemium` `AI` `Landscape Design` `Home Improvement` `Image Generation` `Planning`
+  - **Pricing**: Free, Premium
+
 - [AI Image Generator](https://www.aiimagegenerator.org) - A free AI-powered text-to-image and image-to-image art generator.
   - **Tags**: `Free` `AI` `Image` `Text-to-Image` `Image-to-Image`
   - **Pricing**: Free
