@@ -70,6 +70,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free, Credits system
   - **Contact**: https://x.com/alttextlab
 
+- [Aurcue](https://www.aurcue.com) - AI personal aesthetic assistant for color analysis, outfit upgrades, hairstyles, glasses, and daily style decisions from a photo.
+  - **Tags**: `Freemium` `AI` `Image` `Personal Styling` `Fashion Tech` `Beauty Tech`
+  - **Pricing**: Free tier, Premium
+  - **Contact**: cs@aurcue.com
+
 ## Audio & Speech
 
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
