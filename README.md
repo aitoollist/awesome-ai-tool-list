@@ -35,6 +35,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `Free` `Subscription` `AI` `Companion` `Mental Health`
   - **Pricing**: Free, Premium
 
+- [Song Lyrics Review](https://song-lyrics-review.com) - An AI Lyrics Analyze tool.
+  - **Tags**: `Freemium` `Subscription` `AI` `Music` `lyric analyze`
+  - **Pricing**: Freemium
+
+
 ## Image & Art
 
 - [AI Image Generator](https://www.aiimagegenerator.org) - A free AI-powered text-to-image and image-to-image art generator.
