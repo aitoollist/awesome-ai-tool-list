@@ -46,6 +46,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `Free` `AI` `Search` `Generation` `Community`
   - **Pricing**: Free
 
+- [PhotoRestore.ai](https://photorestore.ai) - AI-powered restoration of old and damaged photos — repairs scratches, fading, tears, and colorizes B&W images.
+  - **Tags**: `Freemium` `AI` `Photo` `Restoration` `Colorization`
+  - **Pricing**: Free trial
+
 - [Neural.love](https://neural.love) - AI art generator with historical photo restoration.
   - **Tags**: `Free` `Subscription` `AI` `Restoration` `Historical`
   - **Pricing**: Free, Credits system
