@@ -133,6 +133,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
  
   
   
+- [CoderPlan](https://coderplan.ai) - A unified LLM API gateway supporting Claude, OpenAI, and Gemini. One config line to connect Claude Code, Codex CLI, or Gemini CLI.
+  - **Tags**: `Freemium` `Pay-per-use` `API` `Development` `Developer Tools`
+  - **Pricing**: Pay-per-use from ¥10, free trial credits
+  - **Contact**: support@coderplan.ai
+
 ## Writing
 
 - [AI Joke Generator](https://www.aijokegenerator.org) - An AI-powered joke generator.
