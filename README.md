@@ -121,6 +121,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [Pie Chart Maker](https://piechartmaker.site) - Create Free Pie Charts Instantly
   - **Tags**: `Free` `pie chart` `Productivity` `Business`
   - **Pricing**: Free
+
+- [XMACNA Funcionarios Digitais](https://xmacna.ai/) - AI/IA-powered Funcionarios Digitais for WhatsApp, phone, CRM updates, lead qualification, follow-up, and human handoff.
+  - **Tags**: `AI` `IA` `Business` `Sales` `CRM` `WhatsApp`
+  - **Pricing**: Contact
     
 - [AiAgentsBase] (https://aiagentsbase.com/) - Your All-in-One AI Agents Directory
   - **Tags**: `Free` `AI` `Directory`
