@@ -89,6 +89,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [AI speaker](https://ai-speaker.net/) - Free online text to speech.
   - **Tags**: `Free` `Subscription` `AI` `Voice` `Text-to-Speech`
   - **Pricing**: Free tier, Premium
+ 
+  - - [Vallo](https://govallo.ai) – AI receptionist built for home service contractors — answers every call, books jobs, and never misses a lead.
+    -   - **Tags:** `Freemium` `voice-ai` `customer-support` `small-business` `hvac` `trades`
+        -   - **Pricing:** Free trial, from $20/mo
+            -   - **Contact:** https://govallo.ai
 
 ## Productivity
 
