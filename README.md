@@ -35,6 +35,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `Free` `Subscription` `AI` `Companion` `Mental Health`
   - **Pricing**: Free, Premium
 
+- [FerryAPI](https://www.ferryapi.io/) - OpenAI-compatible AI API gateway for cost-sensitive production apps.
+  - **Tags**: `Freemium` `AI` `API` `Developer Tools` `LLM Gateway`
+  - **Pricing**: Prepaid usage-based pricing
+  - **Contact**: https://x.com/sundry006
+
 ## Image & Art
 
 - [AI Image Generator](https://www.aiimagegenerator.org) - A free AI-powered text-to-image and image-to-image art generator.
