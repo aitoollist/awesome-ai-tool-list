@@ -26,6 +26,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Credits system
   - **Contact**: https://x.com/neatflowai
 
+- [CoderPlan](https://coderplan.ai) - LLM API gateway with OpenAI-compatible interface. Pay-per-use access to Claude, GPT, Gemini, and 100+ models.
+  - **Tags**: `Freemium` `Pay-per-use` `API` `Developer Tools` `Multi-model`
+  - **Pricing**: Pay-per-use, no subscription
+  - **Contact**: https://x.com/coderplan_ai
+
 - [Character.AI](https://character.ai) - Create and chat with AI characters and personalities.
   - **Tags**: `Free` `Subscription` `AI` `Chatbot` `Role-play`
   - **Pricing**: Free, Premium
