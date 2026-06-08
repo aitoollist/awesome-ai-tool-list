@@ -131,7 +131,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `FreeTrial` `Email`
   - **Pricing**: Paid
  
-  
+- [LLMRank](https://llmrank.top) - AI-powered SEO platform that optimizes website content for AI search engines and LLM visibility.
+  - **Tags**: `Free` `SEO` `AI` `Search` `Marketing`
+  - **Pricing**: Free
+  - **Contact**: https://x.com/llmrank
+   
   
 ## Writing
 
