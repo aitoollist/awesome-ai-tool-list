@@ -70,6 +70,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free, Credits system
   - **Contact**: https://x.com/alttextlab
 
+- [Image3D](https://image3d.io/) - Browser-based AI image and text to 3D model generator with 3D preview and GLB, OBJ, STL, and PLY export.
+  - **Tags**: `Free Trial` `Subscription` `AI` `Image-to-3D` `Text-to-3D` `3D Model` `STL` `GLB`
+  - **Pricing**: Free trial credits, paid credit packs and subscriptions
+
 ## Audio & Speech
 
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
