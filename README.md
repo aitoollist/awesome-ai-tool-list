@@ -131,6 +131,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `FreeTrial` `Email`
   - **Pricing**: Paid
  
+
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments.
+  - **Tags**: `Free` `AI` `Web3` `Solana` `MCP` `Agent` `Trust` `Identity`
+  - **Pricing**: Free (MCP tools), Pay-per-use (trust receipts via x402)
   
   
 ## Writing
