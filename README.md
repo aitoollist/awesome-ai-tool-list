@@ -10,6 +10,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [Chat & Text](#chat--text)
 - [Image & Art](#image--art)
 - [Audio & Speech](#audio--speech)
+- [Video](#video)
 - [Productivity](#productivity)
 - [Writing](#writing)
 - [Finance](#finance)
@@ -89,6 +90,12 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [AI speaker](https://ai-speaker.net/) - Free online text to speech.
   - **Tags**: `Free` `Subscription` `AI` `Voice` `Text-to-Speech`
   - **Pricing**: Free tier, Premium
+
+## Video
+
+- [ImagineClip](https://imagineclip.com) - AI video generator for social clips, avatar videos, and stylized visual effects.
+  - **Tags**: `Freemium` `AI` `Video` `Avatar Video` `Social Media`
+  - **Pricing**: Free signup credits, paid plans
 
 ## Productivity
 
