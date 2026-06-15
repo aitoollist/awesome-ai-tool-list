@@ -118,6 +118,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free tier, Basic, Pro, Enterprise
   - **Contact**: [https://x.com/leenyburger](https://x.com/leenyburger)
 
+- [AI Workflow Template Generator](https://ronnie2025.github.io/ai-agent-workbench-starter-pack/template-generator.html) - Free Chinese web tool for turning a role, workflow goal, and deliverable into reusable AI workflow prompts.
+  - `Free` `AI` `Productivity` `Prompts` `Chinese`
+  - Includes templates for writing workflows, PPT outlines, meeting notes, and content operations.
+
 - [Pie Chart Maker](https://piechartmaker.site) - Create Free Pie Charts Instantly
   - **Tags**: `Free` `pie chart` `Productivity` `Business`
   - **Pricing**: Free
