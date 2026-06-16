@@ -70,6 +70,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free, Credits system
   - **Contact**: https://x.com/alttextlab
 
+- [ClearCrowds](https://www.clearcrowds.com) - AI photo cleanup and image editing app for removing crowds, objects, clutter, glasses, and glare from photos.
+  - **Tags**: `Freemium` `AI` `Photo cleanup` `Image editing` `Object removal`
+  - **Pricing**: Guest trial and paid credit/membership options
+  - **Contact**: cs@clearcrowds.com
+
 ## Audio & Speech
 
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
