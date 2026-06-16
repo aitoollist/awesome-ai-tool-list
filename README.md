@@ -55,6 +55,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free, Credits system
   - **Contact**: https://x.com/nightcafestudio
 
+- [Seedream AI Studio](https://seedream4.video/) - Multi-model AI image generation platform powered by ByteDance Seedream 5.0/4.5/4.0, ranked #1 in AI Image Arena. Supports up to 10 reference images and one-click Kling 2.1 video generation.
+  - **Tags**: `Free` `AI` `Image` `Text-to-Image` `Video` `ByteDance`
+  - **Pricing**: Free tier, paid plans available
+
 - [Stable Horde](https://stablehorde.net) - Distributed volunteer-powered image generation.
   - **Tags**: `Free` `Open Source` `AI` `Community`
   - **Pricing**: Free
