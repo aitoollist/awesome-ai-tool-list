@@ -97,6 +97,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free tier, Premium
 
 - [BloomNote](https://www.bloomnote.me/) - Turn your YouTube videos, files, and links into interactive notebooks for learning.
+- [ImagineClip](https://imagineclip.com/) - AI video generator for fun clips, avatar videos, stylized scenes, and shareable social content.
+  - `Freemium` `video` `avatar` `image-to-video`
+  - Turn prompts and images into playful social-ready clips.
   - **Tags**: `Free` `AI` `Learning` `Productivity` `Education`
   - **Pricing**: Free tier, Pro
 
