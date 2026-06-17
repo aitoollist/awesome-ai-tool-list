@@ -118,6 +118,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free tier, Basic, Pro, Enterprise
   - **Contact**: [https://x.com/leenyburger](https://x.com/leenyburger)
 
+- [CallURL](https://callurl.com) - Build a free Call App in 60 seconds, share it by link or QR, and let it handle calls.
+  - **Tags**: `Free` `AI` `Productivity` `Call Automation` `Lead Qualification`
+  - **Pricing**: Free
+  - **Contact**: https://callurl.com
+
 - [Pie Chart Maker](https://piechartmaker.site) - Create Free Pie Charts Instantly
   - **Tags**: `Free` `pie chart` `Productivity` `Business`
   - **Pricing**: Free
