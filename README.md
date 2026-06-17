@@ -92,6 +92,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Productivity
 
+- [Remio](https://remio.ai/) - Local-first AI memory and knowledge base for retrieving personal context from files, webpages, recordings, emails, and notes.
+  - **Tags**: `Freemium` `AI` `Productivity` `Knowledge Base` `Personal Knowledge Management`
+  - **Pricing**: Free tier, Premium
+
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
   - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
   - **Pricing**: Free tier, Premium
