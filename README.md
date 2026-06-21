@@ -130,6 +130,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [Ourdia] (https://ourdia.com/) - Reclaim 5 hours per week
   - **Tags**: `FreeTrial` `Email`
   - **Pricing**: Paid
+
+- [AI Prompt Architect](https://aipromptarchitect.co.uk) - Production-grade prompt engineering platform featuring a CLI, native MCP Server for autonomous orchestration, and the STCO framework.
+  - **Tags**: `Free` `Subscription` `AI` `Developer Tools` `Prompt Engineering`
+  - **Pricing**: Freemium
+  - **Contact**: https://x.com/luke_fryer_
  
   
   
