@@ -133,6 +133,21 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
  
   
   
+- [PrepGo](https://prepgo.com/) - AI-powered AP exam prep platform with practice questions, mock exams, score prediction, and organized AP resources.
+  - **Tags**: `Freemium` `AI` `Education` `Productivity` `Study`
+  - **Pricing**: Freemium
+  - **Contact**: https://x.com/PrepGoTeam
+
+- [TeachQuill](https://teachquill.com/) - All-in-one AI platform for teachers to create lessons, assessments, worksheets, and classroom materials faster.
+  - **Tags**: `Free Trial` `AI` `Education` `Productivity` `Teaching`
+  - **Pricing**: Free trial, Paid
+  - **Contact**: https://teachquill.com/
+
+- [StudyX](https://studyx.ai/) - All-in-one AI study partner for homework help, notes, flashcards, and test prep.
+  - **Tags**: `AI` `Education` `Productivity` `Study` `Homework`
+  - **Pricing**: Free, Paid
+  - **Contact**: https://x.com/helloStudyX
+
 ## Writing
 
 - [AI Joke Generator](https://www.aijokegenerator.org) - An AI-powered joke generator.
