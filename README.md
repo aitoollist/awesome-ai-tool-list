@@ -55,6 +55,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free, Credits system
   - **Contact**: https://x.com/nightcafestudio
 
+- [Picovix](https://www.picovix.app) - Generate consistent AI characters and virtual models — the same face across unlimited scenes, outfits, and lighting from a single selfie. Free to start in the browser, no signup.
+  - **Tags**: `Free` `AI` `Consistent Character` `Virtual Model` `AI Influencer`
+  - **Pricing**: Freemium
+  - **Contact**: https://www.picovix.app
+
 - [Stable Horde](https://stablehorde.net) - Distributed volunteer-powered image generation.
   - **Tags**: `Free` `Open Source` `AI` `Community`
   - **Pricing**: Free
