@@ -35,6 +35,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `Free` `Subscription` `AI` `Companion` `Mental Health`
   - **Pricing**: Free, Premium
 
+- [Auferet](https://auferet.com) - An AI game master for solo text adventures and tabletop-style RPGs, with long-term story memory and your own uploaded lore for consistent worlds.
+  - **Tags**: `Freemium` `AI` `Role-play` `Text Adventure` `RPG` `Storytelling`
+  - **Pricing**: Free, Premium from $10/mo
+  - **Contact**: https://x.com/AuferetRPG
+
 ## Image & Art
 
 - [AI Image Generator](https://www.aiimagegenerator.org) - A free AI-powered text-to-image and image-to-image art generator.
