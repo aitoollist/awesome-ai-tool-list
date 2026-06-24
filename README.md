@@ -1,4 +1,4 @@
-﻿# Awesome AI Tool List [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome AI Tool List [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome AI tools and applications. Visit [https://www.aitoollist.org](https://www.aitoollist.org) for a searchable interface.
 
