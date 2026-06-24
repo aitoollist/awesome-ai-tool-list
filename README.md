@@ -1,4 +1,4 @@
-# Awesome AI Tool List [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+﻿# Awesome AI Tool List [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome AI tools and applications. Visit [https://www.aitoollist.org](https://www.aitoollist.org) for a searchable interface.
 
@@ -91,6 +91,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free tier, Premium
 
 ## Productivity
+
+- [Prism API](https://sub2api.558686.xyz/) - OpenAI-compatible API relay for developers who need GPT-family model access with crypto top-ups.
+  - **Tags**: `Paid` `API` `Developer Tools` `OpenAI-compatible` `Crypto`
+  - **Pricing**: Prepaid credits; Google signup grant available
 
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
   - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
