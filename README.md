@@ -130,6 +130,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [Ourdia] (https://ourdia.com/) - Reclaim 5 hours per week
   - **Tags**: `FreeTrial` `Email`
   - **Pricing**: Paid
+
+- [TripSapien](https://www.tripsapien.com) - Free AI itinerary validator for checking ChatGPT, Gemini, Claude, and Perplexity travel plans against real-world hours, closures, booking risk, and neighborhood fit.
+  - **Tags**: `Free` `AI` `Travel` `Itinerary Validation` `Trip Planning`
+  - **Pricing**: Free
  
   
   
