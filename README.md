@@ -154,6 +154,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `Subscription` `AI` `Writing` `Business`
   - **Pricing**: Paid
 
+- [TrafficWins](https://trafficwins.com) - Turns one website into an AI SEO and GEO article campaign with research, topic planning, drafting, images, internal links, quality audits, and publishing.
+  - **Tags**: `Free trial` `Subscription` `AI` `SEO` `Writing` `Marketing`
+  - **Pricing**: Free trial, Subscription
+
 - [QuillBot](https://quillbot.com) - AI paraphrasing and writing enhancement tool.
   - **Tags**: `Free` `Subscription` `AI` `Paraphrasing` `Writing`
   - **Pricing**: Free tier, Premium
