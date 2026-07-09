@@ -162,6 +162,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `Free` `AI` `Paraphrasing` `Proofreading` `Writing`
   - **Pricing**: Free
 
+- [PolicyAI](https://policy-ai-alpha.vercel.app) - AI-powered generator for Privacy Policy, Terms of Service, and Cookie Policy. Generates GDPR & CCPA compliant legal documents for websites in 60 seconds.
+  - **Tags**: `Free` `Subscription` `AI` `Legal` `Privacy` `GDPR` `CCPA` `Writing`
+  - **Pricing**: Free tier, Pro ($19/month)
+
 ## Finance
 - [SASA](https://www.usesasa.com/) - AI-powered accounting
   - **Tags**: `Free` `Subscription` `AI` `Accoutning` `Bookkeeping` `Receipt Scanning` `Invoicing`
