@@ -96,6 +96,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - `Free` `AI` `Directory` `Productivity` `SEO`
   - Browse AI tools across coding, marketing, SEO, productivity, design, sales, and automation.
 
+- [Token Board](https://token-board.com/) - A focused web tool for practical workflows.
+  - `Free` `AI` `Web Tool`
+
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
   - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
   - **Pricing**: Free tier, Premium
