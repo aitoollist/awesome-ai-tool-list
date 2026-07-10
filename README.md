@@ -99,6 +99,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [Token Board](https://token-board.com/) - A focused web tool for practical workflows.
   - `Free` `AI` `Web Tool`
 
+- [Histories](https://histories.world/) - A focused web tool for practical workflows.
+  - `Free` `AI` `Web Tool`
+
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
   - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
   - **Pricing**: Free tier, Premium
