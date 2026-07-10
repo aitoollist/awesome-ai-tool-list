@@ -92,6 +92,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Productivity
 
+- [Top AI Tools](https://topaitools.app) - A curated directory for discovering, comparing, saving, and upvoting useful AI tools.
+  - `Free` `AI` `Directory` `Productivity` `SEO`
+  - Browse AI tools across coding, marketing, SEO, productivity, design, sales, and automation.
+
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
   - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
   - **Pricing**: Free tier, Premium
