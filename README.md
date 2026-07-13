@@ -92,6 +92,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Productivity
 
+- [codex-profiles](https://github.com/Ducksss/codex-profiles) - Manage named Codex CLI homes and separate ChatGPT Desktop windows without copying tokens.
+  - **Tags**: `Free` `Open Source` `Developer Tools` `Codex` `ChatGPT`
+  - **Pricing**: Free
+  - **Feature**: Runs as a dependency-free Bash wrapper with separate local state for each profile
+
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
   - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
   - **Pricing**: Free tier, Premium
