@@ -37,6 +37,22 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Image & Art
 
+- [Best Face Swap](https://bestfaceswap.io/) - AI face swap workflows for photos, videos, GIFs, and multiple faces.
+  - `Freemium` `AI` `Face Swap` `Video` `Image`
+  - Supports dedicated photo, video, GIF, and group face swap workflows.
+
+- [DeepFake](https://deepfakeai.pro/) - Consent-based AI deepfake video, face exchange, image, and music studio.
+  - `Freemium` `AI` `Deepfake Video` `Face Exchange` `Image-to-Video`
+  - Combines video, image, and audio generation workflows in one studio.
+
+- [VideoAny](https://videoany.be/) - AI creative studio for generating videos, images, and audio from text or images.
+  - `Freemium` `AI` `Text-to-Video` `Image-to-Video` `Audio`
+  - Offers free starter credits for video, image, and audio generation.
+
+- [VideoAny.pl](https://videoany.pl/) - Polish-language AI studio for creating videos, images, and audio online.
+  - `Freemium` `AI` `Text-to-Video` `Image-to-Video` `Polish`
+  - Provides Polish-speaking creators with free starter credits and prompt-based workflows.
+
 - [AI Image Generator](https://www.aiimagegenerator.org) - A free AI-powered text-to-image and image-to-image art generator.
   - **Tags**: `Free` `AI` `Image` `Text-to-Image` `Image-to-Image`
   - **Pricing**: Free
