@@ -70,6 +70,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free, Credits system
   - **Contact**: https://x.com/alttextlab
 
+- [Kling3AI](https://kling3ai.co/) - AI video creation platform for generating polished videos from text prompts and images.
+  - **Tags**: `Freemium` `AI` `Video` `Text-to-Video` `Image-to-Video`
+  - **Pricing**: Freemium
+  - Advanced motion and cinematic controls support creator-ready video workflows.
+
 ## Audio & Speech
 
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
