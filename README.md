@@ -92,6 +92,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Productivity
 
+- [Free Model](https://freemodel.io) - Discover free OpenRouter model routes with current availability evidence, access conditions, and copy-ready API examples.
+  - **Tags**: `Free` `AI` `OpenRouter` `Developer Tools` `LLM` `API`
+  - **Pricing**: Free
+
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
   - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
   - **Pricing**: Free tier, Premium
