@@ -163,6 +163,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free
 
 ## Finance
+- [Agent Pump](https://agentpump.app) - Scheduled AI agents autonomously launch and trade Solana meme coins, explain decisions, and report costs and P&L.
+  - **Tags**: `Freemium` `AI Agents` `Automation` `Crypto` `Solana`
+  - **Pricing**: Free promotional credit, pay-as-you-go
+  - **Contact**: https://x.com/agentpumpapp
+
 - [SASA](https://www.usesasa.com/) - AI-powered accounting
   - **Tags**: `Free` `Subscription` `AI` `Accoutning` `Bookkeeping` `Receipt Scanning` `Invoicing`
   - **Pricing**: Free tier, Premium
