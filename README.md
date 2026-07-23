@@ -86,6 +86,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free tier, Pro
   - **Contact**: https://x.com/play_ht
 
+- [CharaVox](https://charavox.com) - AI voice generation platform with character voices, voice cloning, and studio-quality TTS in 6 languages.
+  - **Tags**: `Freemium` `Subscription` `AI` `Voice` `Text-to-Speech` `Voice Cloning` `Multilingual`
+  - **Pricing**: Free tier, Pro
+  - **Contact**: https://charavox.com
+
 - [AI speaker](https://ai-speaker.net/) - Free online text to speech.
   - **Tags**: `Free` `Subscription` `AI` `Voice` `Text-to-Speech`
   - **Pricing**: Free tier, Premium
