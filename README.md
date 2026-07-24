@@ -69,7 +69,15 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `Free` `Subscription` `AI` `Alt text` `Seo` `a11y`
   - **Pricing**: Free, Credits system
   - **Contact**: https://x.com/alttextlab
+- [FaceSwapAI](https://faceswapai.com/) - A fast and user-friendly online AI face swap tool for creating realistic face swaps in photos, videos, and GIFs.
+  - **Tags**: `Freemium` `AI` `Face Swap` `Photo` `Video` `GIF`
+  - **Pricing**: Freemium
+  - **Contact**: luoyongxin8@gmail.com
 
+- [DeepSwapAI](https://deepswapai.com/) - An online AI-powered face swapping tool that helps users create natural and realistic face swaps in photos and videos.
+  - **Tags**: `Freemium` `AI` `Face Swap` `Photo` `Video`
+  - **Pricing**: Freemium
+  - **Contact**: luoyongxin8@gmail.com
 ## Audio & Speech
 
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
