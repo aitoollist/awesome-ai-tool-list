@@ -9,8 +9,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 ## Contents
 - [Chat & Text](#chat--text)
 - [Image & Art](#image--art)
+- [Video & Media](#video--media)
 - [Audio & Speech](#audio--speech)
 - [Productivity](#productivity)
+- [Lifestyle & Entertainment](#lifestyle--entertainment)
 - [Writing](#writing)
 - [Finance](#finance)
 
@@ -69,6 +71,20 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `Free` `Subscription` `AI` `Alt text` `Seo` `a11y`
   - **Pricing**: Free, Credits system
   - **Contact**: https://x.com/alttextlab
+
+- [Blur Background](https://blurbackground.vip) - Browser-based image tool for blurring or removing photo backgrounds.
+  - **Tags**: `Free` `AI` `Image Editing` `Background Blur` `Background Removal`
+  - **Pricing**: Free
+
+- [Image Describer](https://imagedescriber.dev) - AI image analysis tool that generates descriptions, accessibility-focused alt text, captions, and OCR text.
+  - **Tags**: `Freemium` `AI` `Image Analysis` `Alt Text` `Accessibility`
+  - **Pricing**: Free tier, Premium
+
+## Video & Media
+
+- [Video Upscaler](https://videoupscaler.video) - Browser-based AI video enhancement tool for increasing resolution and perceived clarity.
+  - **Tags**: `Freemium` `AI` `Video` `Upscaling` `Enhancement`
+  - **Pricing**: Free tier, Premium
 
 ## Audio & Speech
 
@@ -130,9 +146,13 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [Ourdia] (https://ourdia.com/) - Reclaim 5 hours per week
   - **Tags**: `FreeTrial` `Email`
   - **Pricing**: Paid
- 
-  
-  
+
+## Lifestyle & Entertainment
+
+- [Vedic Astrology Chart](https://vedicastrologychart.net) - Sidereal birth-chart calculator with planetary positions, houses, nakshatras, Panchanga details, and readable interpretations.
+  - **Tags**: `Free` `AI` `Astrology` `Birth Chart` `Sidereal`
+  - **Pricing**: Free
+
 ## Writing
 
 - [AI Joke Generator](https://www.aijokegenerator.org) - An AI-powered joke generator.
