@@ -42,6 +42,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free
   - **Contact**: https://x.com/aiimggenerator
 
+- [GPT Image 2](https://gptimage2.asia/) - AI image generator and editor for marketing, ecommerce, social media, and branded visuals.
+  - **Tags**: `Freemium` `AI` `Image` `Text-to-Image` `Image Editing` `Marketing`
+  - **Pricing**: Freemium
+
 - [Lexica](https://lexica.art) - AI art search engine and generation platform.
   - **Tags**: `Free` `AI` `Search` `Generation` `Community`
   - **Pricing**: Free
