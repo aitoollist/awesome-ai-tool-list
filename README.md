@@ -37,6 +37,14 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Image & Art
 
+- [AINude Poland](https://ainude.pl/) - Polish-language AI image and video studio for responsible adult-oriented fictional character creation and authorized editing.
+  - **Tags**: `Freemium` `AI` `Image` `Image-to-Video` `Adult`
+  - **Pricing**: Free tier, Credits system
+
+- [AINude Brazil](https://nudeai.com.br/) - Portuguese-language AI image and video studio for responsible adult-oriented fictional character creation and authorized editing.
+  - **Tags**: `Freemium` `AI` `Image` `Image-to-Video` `Adult`
+  - **Pricing**: Free tier, Credits system
+
 - [AI Image Generator](https://www.aiimagegenerator.org) - A free AI-powered text-to-image and image-to-image art generator.
   - **Tags**: `Free` `AI` `Image` `Text-to-Image` `Image-to-Image`
   - **Pricing**: Free
