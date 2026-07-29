@@ -72,6 +72,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Audio & Speech
 
+- [StorySing](https://storysing.me/) - Turns one real memory and a short speaking-voice sample into an original personalized song; no singing required.
+  - **Tags**: `Paid` `AI` `Music` `Personalized Songs` `Voice`
+  - **Pricing**: $29 one-time
+  - **Contact**: https://x.com/storysingme
+
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
   - **Tags**: `Free` `Subscription` `AI` `Voice` `Text-to-Speech`
   - **Pricing**: Free tier, Premium
