@@ -70,6 +70,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free, Credits system
   - **Contact**: https://x.com/alttextlab
 
+- [YingTu](https://yingtu.ai/en) - Browser-based playground for testing and comparing supported AI image and video generation routes before API integration.
+  - **Tags**: `AI` `Image` `Video` `Developer Tool` `Playground`
+  - **Pricing**: Free to open; generation requires a valid API key and follows active route rules
+  - **Contact**: https://github.com/threezhang
+
 ## Audio & Speech
 
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
