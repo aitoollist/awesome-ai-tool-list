@@ -133,6 +133,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
  
   
   
+- [AICareerPivot](https://ai-career-pivot.com) - Free AI-powered career pivot roadmap builder. Maps skill gaps, builds personalized transition timelines, and generates resumes, mock interviews & LinkedIn optimization for career changers.
+  - **Tags**: `Free` `AI` `Career` `Resume` `Productivity`
+  - **Pricing**: Free
+
 ## Writing
 
 - [AI Joke Generator](https://www.aijokegenerator.org) - An AI-powered joke generator.
