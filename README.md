@@ -70,6 +70,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free, Credits system
   - **Contact**: https://x.com/alttextlab
 
+- [AI Depixelate](https://aidepixelate.com/) - Fix pixelated photos online with AI.
+  - **Tags**: `Free` `AI` `Image Restoration` `Photo Enhancement`
+  - **Pricing**: Free
+
 ## Audio & Speech
 
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
