@@ -96,6 +96,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
   - **Pricing**: Free tier, Premium
 
+- [Jobloo](https://jobloo.co) - AI-powered job application platform that tailors your resume for each job description and auto-applies to Workday, Greenhouse, Lever, and LinkedIn Easy Apply.
+  - **Tags**: `Freemium` `AI` `Job Search` `Resume Tailoring` `Automation`
+  - **Pricing**: Free tier, Pro
+
 - [BloomNote](https://www.bloomnote.me/) - Turn your YouTube videos, files, and links into interactive notebooks for learning.
   - **Tags**: `Free` `AI` `Learning` `Productivity` `Education`
   - **Pricing**: Free tier, Pro
