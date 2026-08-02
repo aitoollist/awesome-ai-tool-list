@@ -55,6 +55,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free, Credits system
   - **Contact**: https://x.com/nightcafestudio
 
+- [Rao Edits](https://raoedits.top/) - Browser-based text-to-image generation and reference-image editing for product, social, and creative visuals.
+  - **Tags**: `Paid` `AI` `Image` `Text-to-Image` `Image Editing`
+  - **Pricing**: Paid plans from $29/month
+  - **Contact**: mailto:support@raoedits.top
+
 - [Stable Horde](https://stablehorde.net) - Distributed volunteer-powered image generation.
   - **Tags**: `Free` `Open Source` `AI` `Community`
   - **Pricing**: Free
