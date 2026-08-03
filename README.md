@@ -92,6 +92,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Productivity
 
+- [Xquik](https://xquik.com) - X research and automation API with SDKs, webhooks, agent plugins, and a deliberate two-tool MCP server.
+  - `Subscription` `AI Agents` `Developer Tools` `MCP` `X Automation`
+  - Xquik is an independent third-party service. Not affiliated with X Corp. "Twitter" and "X" are trademarks of X Corp.
+
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
   - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
   - **Pricing**: Free tier, Premium
