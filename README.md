@@ -35,6 +35,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `Free` `Subscription` `AI` `Companion` `Mental Health`
   - **Pricing**: Free, Premium
 
+- [Fortuneteller.Today](https://www.fortuneteller.today) - AI divination and self-reflection readings across tarot, astrology, numerology, BaZi, and runes.
+  - **Tags**: `Freemium` `AI` `Tarot` `Astrology` `Numerology` `Self-Reflection`
+  - **Pricing**: Freemium
+
 ## Image & Art
 
 - [AI Image Generator](https://www.aiimagegenerator.org) - A free AI-powered text-to-image and image-to-image art generator.
