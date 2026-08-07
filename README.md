@@ -130,6 +130,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [Ourdia] (https://ourdia.com/) - Reclaim 5 hours per week
   - **Tags**: `FreeTrial` `Email`
   - **Pricing**: Paid
+
+- [Autoposting](https://autoposting.ai) - AI social media manager that writes posts in your own voice, clips long video, and schedules to five networks.
+  - **Tags**: `FreeTrial` `AI` `SocialMedia` `Scheduling`
+  - **Pricing**: Freemium
  
   
   
