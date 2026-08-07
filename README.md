@@ -92,6 +92,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Productivity
 
+- [Cactal](https://cactal.ai) - The website platform for AI agents.
+  - `Freemium` `AI agents` `MCP` `website builder` `developer tools`
+  - Versioned publishing with preview and rollback
+
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
   - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
   - **Pricing**: Free tier, Premium
