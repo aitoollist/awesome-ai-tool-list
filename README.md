@@ -96,6 +96,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
   - **Pricing**: Free tier, Premium
 
+- [CVExpert](https://cvexpert.com/) - AI job-search workspace for career coaching, tailored CVs, job-specific application materials, and networking support.
+  - **Tags**: `Early Access` `AI` `Career` `CV` `Job Search`
+  - **Pricing**: First month free during private beta
+
 - [BloomNote](https://www.bloomnote.me/) - Turn your YouTube videos, files, and links into interactive notebooks for learning.
   - **Tags**: `Free` `AI` `Learning` `Productivity` `Education`
   - **Pricing**: Free tier, Pro
