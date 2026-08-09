@@ -50,6 +50,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `Free` `Subscription` `AI` `Restoration` `Historical`
   - **Pricing**: Free, Credits system
 
+- [Sharpniq](https://unblurimage.me) - Browser-based AI photo restoration for improving blurry and soft images.
+  - `Freemium` `AI` `Image Restoration` `Photo Enhancement`
+  - Free local processing with optional cloud enhancement.
+
 - [NightCafe](https://nightcafe.studio) - AI art creation with multiple style options and community features.
   - **Tags**: `Free` `Subscription` `AI` `Art` `Community`
   - **Pricing**: Free, Credits system
