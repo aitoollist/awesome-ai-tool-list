@@ -115,6 +115,8 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   
 - [HelloQuery](https://www.helloquery.com) - Lets your customers (or your team) chat directly with their data. 
   - **Tags**: `Free` `AI` `Development` `Database`
+- [AI for Database](https://aifordatabase.com) - Talk to your database in plain English. Connect any DB, query without SQL, build self-refreshing dashboards, and trigger workflows on data changes.
+  - **Tags**: `Freemium` `AI` `Development` `Database` `Analytics`
   - **Pricing**: Free tier, Basic, Pro, Enterprise
   - **Contact**: [https://x.com/leenyburger](https://x.com/leenyburger)
 
