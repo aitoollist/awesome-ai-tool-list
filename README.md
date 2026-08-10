@@ -70,6 +70,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free, Credits system
   - **Contact**: https://x.com/alttextlab
 
+- [Blur Background](https://blurbackground.vip) - Browser-based tool for removing or blurring image backgrounds without desktop software.
+  - `Freemium` `AI` `Background Blur` `Image Editing`
+  - Privacy-friendly browser workflow for clean product and profile visuals.
+
 ## Audio & Speech
 
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
