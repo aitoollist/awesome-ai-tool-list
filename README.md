@@ -70,6 +70,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free, Credits system
   - **Contact**: https://x.com/alttextlab
 
+- [Video Upscaler](https://videoupscaler.video) - AI video enhancement tool for improving blurry footage and upscaling resolution to HD or 4K.
+  - `Freemium` `AI` `Video Enhancement` `Upscaling`
+  - Browser-based workflow for creator and restoration projects.
+
 ## Audio & Speech
 
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
