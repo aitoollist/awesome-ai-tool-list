@@ -100,6 +100,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `Free` `AI` `Learning` `Productivity` `Education`
   - **Pricing**: Free tier, Pro
 
+- [Vedic Astrology Chart](https://vedicastrologychart.net) - Generates sidereal birth charts with houses, nakshatras, dashas, and AI-assisted interpretation.
+  - `Freemium` `AI` `Astrology` `Birth Chart`
+  - Includes D9/Navamsa and other divisional charts for personal study.
+
 - [Notion](https://www.notion.so) - An all-in-one workspace for notes, tasks, and collaboration.
   - **Tags**: `Free` `Subscription` `Productivity` `Notes` `Collaboration`
   - **Pricing**: Free, Subscription
