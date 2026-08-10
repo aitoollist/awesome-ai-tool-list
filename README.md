@@ -70,6 +70,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free, Credits system
   - **Contact**: https://x.com/alttextlab
 
+- [Image Describer](https://imagedescriber.dev) - AI image analysis tool for generating descriptions, alt text, and prompt-ready summaries.
+  - `Freemium` `AI` `Image Analysis` `Alt Text`
+  - Converts uploaded images into accessible descriptions and concise content summaries.
+
 ## Audio & Speech
 
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
