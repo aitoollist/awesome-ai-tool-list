@@ -69,6 +69,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `Free` `Subscription` `AI` `Alt text` `Seo` `a11y`
   - **Pricing**: Free, Credits system
   - **Contact**: https://x.com/alttextlab
+ 
+- [TalkPix.ai](https://www.talkpix.ai) - Pay-as-you-go AI video generator for creating talking photos, e-commerce video ads, and text-to-video clips.
+  - **Tags**: `Freemium` `AI` `Video` `Talking Photo` `Avatar` `E-Commerce`
+  - **Pricing**: Free preview, Credits system
+  - **Contact**: support@talkpix.ai
 
 ## Audio & Speech
 
