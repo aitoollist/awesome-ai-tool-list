@@ -162,6 +162,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `Free` `AI` `Paraphrasing` `Proofreading` `Writing`
   - **Pricing**: Free
 
+- [Mydentify AI Watermark Detector](https://mydentify.com/tools/ai-watermark-detector) - Free web tool for checking pasted text for observable AI watermark signals.
+  - **Tags**: `Free` `AI` `Detection` `Writing`
+  - **Pricing**: Free
+  - Checks observable Unicode watermark signals and non-conclusive style clues; cannot prove authorship.
+
 ## Finance
 - [SASA](https://www.usesasa.com/) - AI-powered accounting
   - **Tags**: `Free` `Subscription` `AI` `Accoutning` `Bookkeeping` `Receipt Scanning` `Invoicing`
