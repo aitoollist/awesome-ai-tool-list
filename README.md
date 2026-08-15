@@ -109,6 +109,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free tier, Pro
   - **Contact**: https://x.com/otter_ai
 
+- [Orkas](https://orkas.ai/?source=dir_aitoollist) - Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
+  - **Tags**: `Free` `Open Source` `AI` `Productivity` `Agents`
+  - **Pricing**: Free
+
 - [SocialPilot AI Schedule](https://chatgpt.com/g/g-67b5982938d881918a04bc76979557fc-socialpilot-ai-scheduler) - The tool helps schedule, publish, and manage posts across multiple social platforms.
   - **Tags**: `Social Media AI Scheduler` `Social Media Management` `Social Media Marketing`
   - **Pricing**: Free
