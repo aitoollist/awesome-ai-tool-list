@@ -130,7 +130,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [Ourdia] (https://ourdia.com/) - Reclaim 5 hours per week
   - **Tags**: `FreeTrial` `Email`
   - **Pricing**: Paid
- 
+
+- [NoteFree](https://notefree.app/voice-recorder-with-transcription/) - Phone-first voice recorder with live transcription and AI-organized notes for meetings, interviews, classes, and study sessions.
+  - **Tags**: `AI` `Voice Notes` `Transcription` `Meetings` `Productivity` `Education`
+  - **Pricing**: Early access waitlist
+
   
   
 ## Writing
