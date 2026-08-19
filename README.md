@@ -70,6 +70,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free, Credits system
   - **Contact**: https://x.com/alttextlab
 
+- [Upscale Image](https://www.upscayl.app/) - AI-powered image upscaler and photo enhancer for sharper, higher-resolution images.
+  - **Tags**: `Freemium` `AI` `Image Upscaling` `Photo Enhancement` `4K`
+  - **Pricing**: Freemium
+  - Produces HD or 4K-ready images with batch processing and optional face enhancement.
+
 ## Audio & Speech
 
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
