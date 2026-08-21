@@ -166,3 +166,6 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [SASA](https://www.usesasa.com/) - AI-powered accounting
   - **Tags**: `Free` `Subscription` `AI` `Accoutning` `Bookkeeping` `Receipt Scanning` `Invoicing`
   - **Pricing**: Free tier, Premium
+- [FlexiAnalysis](https://flexianalysis.ai) - AI models publishing daily market forecasts across forex, commodities, indices, and crypto.
+  - **Tags**: `Freemium` `AI` `Finance` `Forecasting` `Markets` `Trading`
+  - **Pricing**: Free tier, Premium
