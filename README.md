@@ -118,6 +118,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free tier, Basic, Pro, Enterprise
   - **Contact**: [https://x.com/leenyburger](https://x.com/leenyburger)
 
+- [Tradehand](https://tradehand.com) - AI back-office OS for UK sole traders and small trade businesses, combining local discovery, enquiry handling, quotes, scheduling, job management, marketing and payments.
+  - **Tags**: `Free` `AI` `Productivity` `Job Management` `Business`
+  - **Pricing**: £0/month; 5% of invoice payments it chases and collects
+
 - [Pie Chart Maker](https://piechartmaker.site) - Create Free Pie Charts Instantly
   - **Tags**: `Free` `pie chart` `Productivity` `Business`
   - **Pricing**: Free
