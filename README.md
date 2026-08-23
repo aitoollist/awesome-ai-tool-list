@@ -133,6 +133,12 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
  
   
   
+- [Palisade MCP](https://www.palisade.email/mcp) - Secure email authentication workflows for AI agents.
+  - **Tags**: `Freemium` `MCP` `Email` `DMARC` `SPF` `DKIM`
+  - **Pricing**: Free plan available; paid plans available
+  - **Notable feature**: 32 OAuth-protected tools for diagnosing email authentication and generating human-approved DNS records
+  - **Contact**: https://github.com/palisadeemail/palisade-mcp
+
 ## Writing
 
 - [AI Joke Generator](https://www.aijokegenerator.org) - An AI-powered joke generator.
