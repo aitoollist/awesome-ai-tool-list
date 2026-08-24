@@ -12,6 +12,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [Audio & Speech](#audio--speech)
 - [Productivity](#productivity)
 - [Writing](#writing)
+- [Legal](#legal)
 - [Finance](#finance)
 
 ## Chat & Text
@@ -161,6 +162,12 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [TextCraft](https://github.com/suncloudsmoon/TextCraft) - Add-in integrating AI tools into Word.
   - **Tags**: `Free` `AI` `Paraphrasing` `Proofreading` `Writing`
   - **Pricing**: Free
+
+## Legal
+
+- [SpecterAI](https://www.specterlaw.ai/) - Source-backed AI legal platform for German law, combining legal research, document analysis, drafting, and case workflows.
+  - **Tags**: `Freemium` `AI` `Legal Research` `Document Analysis` `German Law`
+  - **Pricing**: Free tier, Premium
 
 ## Finance
 - [SASA](https://www.usesasa.com/) - AI-powered accounting
