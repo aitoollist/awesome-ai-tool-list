@@ -166,3 +166,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [SASA](https://www.usesasa.com/) - AI-powered accounting
   - **Tags**: `Free` `Subscription` `AI` `Accoutning` `Bookkeeping` `Receipt Scanning` `Invoicing`
   - **Pricing**: Free tier, Premium
+
+
+## SEO & Marketing
+
+- [TrackAIMentions](https://trackaimentions.com/) - A report-first AI visibility checker that shows whether AI organically recommends a brand or its competitors and what to improve next.
+  - **Tags**: `Free` `Freemium` `AI Visibility` `SEO` `Marketing`
+  - **Pricing**: Free checker, optional one-time reports
+  - **Contact**: https://trackaimentions.com/
