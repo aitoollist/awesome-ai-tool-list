@@ -92,6 +92,13 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Productivity
 
+- [Lead Scorer](https://lead-scorer.com) - Approval-first AI SDR agents for solo founders, with a free CRM.
+  - **Tags**: `Freemium` `AI SDR` `CRM` `Sales Automation`
+  - **Pricing**: Free CRM; AI agents from EUR 49/month
+  - Finds and scores prospects, researches dated buying signals, and drafts personal LinkedIn and email outreach for human approval before sending.
+  - **Contact**: https://x.com/leadscorerapp
+
+
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
   - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
   - **Pricing**: Free tier, Premium
