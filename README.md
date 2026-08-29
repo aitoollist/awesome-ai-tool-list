@@ -130,6 +130,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [Ourdia] (https://ourdia.com/) - Reclaim 5 hours per week
   - **Tags**: `FreeTrial` `Email`
   - **Pricing**: Paid
+
+- [ResuMakeAi](https://www.resumakeai.com) - AI resume builder that scores resumes against ATS rules, rewrites them, and matches jobs across live job boards.
+  - **Tags**: `Free` `AI` `Resume` `Career` `Job Search`
+  - **Pricing**: Free tier, Pro
  
   
   
