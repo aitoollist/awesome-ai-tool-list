@@ -37,6 +37,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Image & Art
 
+- [picenhancer.ai](https://picenhancer.ai/) - Free online AI photo enhancer and image editor. Sharpen, upscale 2x/4x, remove backgrounds, and restore old photos in the browser.
+ - **Tags**: `Freemium` `AI` `Image` `Photo Editing` `Upscale` `Restoration`
+ - **Pricing**: Free daily use, paid credits for heavy restoration
+ - **Contact**: https://picenhancer.ai/
+
 - [AI Image Generator](https://www.aiimagegenerator.org) - A free AI-powered text-to-image and image-to-image art generator.
   - **Tags**: `Free` `AI` `Image` `Text-to-Image` `Image-to-Image`
   - **Pricing**: Free
