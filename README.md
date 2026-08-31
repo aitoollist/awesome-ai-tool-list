@@ -92,6 +92,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Productivity
 
+- [Makie](https://makie.kidsai.app/) - Child-safe AI game builder where children ages 8 to 15 describe, play, improve, and remix their own games.
+  - `Freemium` `AI` `Education` `Gaming` `Coding`
+  - Shows kids the real code behind every game, with parent-managed access and no stranger chat
+
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
   - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
   - **Pricing**: Free tier, Premium
