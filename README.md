@@ -37,6 +37,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Image & Art
 
+- [Remix Camera](https://remix.camera) - Create consistent AI portraits from your own reference photos across leading image models.
+  - **Tags**: `Freemium` `AI` `Portraits` `Image Generation` `Character Training`
+  - **Pricing**: Free tier, Credits system
+  - **Contact**: https://remix.camera
+
 - [AI Image Generator](https://www.aiimagegenerator.org) - A free AI-powered text-to-image and image-to-image art generator.
   - **Tags**: `Free` `AI` `Image` `Text-to-Image` `Image-to-Image`
   - **Pricing**: Free
