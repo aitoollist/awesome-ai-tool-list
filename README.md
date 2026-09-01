@@ -42,6 +42,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free
   - **Contact**: https://x.com/aiimggenerator
 
+- [Magic Hour](https://magichour.ai/) - AI creation platform for generating and editing video, images, and audio, with API and MCP server access.
+  - **Tags**: `Freemium` `AI` `Video` `Image` `Audio` `API` `MCP`
+  - **Pricing**: Free tier, Paid plans
+  - **Feature**: Text-to-video, image-to-video, lip sync, face swap, voice, and image workflows
+
 - [Lexica](https://lexica.art) - AI art search engine and generation platform.
   - **Tags**: `Free` `AI` `Search` `Generation` `Community`
   - **Pricing**: Free
