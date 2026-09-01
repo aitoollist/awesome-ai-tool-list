@@ -130,9 +130,13 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [Ourdia] (https://ourdia.com/) - Reclaim 5 hours per week
   - **Tags**: `FreeTrial` `Email`
   - **Pricing**: Paid
- 
-  
-  
+
+- [TempoLife](https://tempolife.app) - An AI-assisted food and health diary that suggests an editable calorie and macro estimate from a meal photo, alongside food, fasting, sleep, weight, steps and mood tracking.
+  - **Tags**: `Freemium` `AI` `Health` `Fitness` `Food Diary` `Android`
+  - **Pricing**: Free tier, Premium
+  - **Contact**: https://x.com/tempolifeapp
+
+
 ## Writing
 
 - [AI Joke Generator](https://www.aijokegenerator.org) - An AI-powered joke generator.
