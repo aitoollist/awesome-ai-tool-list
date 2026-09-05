@@ -92,6 +92,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Productivity
 
+- [AI Weekly](https://aiweekly.co/) - Discover what AI experts are reading and sharing right now.
+  - **Tags**: `Free` `AI` `News` `Research` `Newsletter` `Productivity`
+  - **Pricing**: Free
+  - Trusted by more than 53,000 professionals and published three times a week
+
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
   - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
   - **Pricing**: Free tier, Premium
