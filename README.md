@@ -31,6 +31,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free, Premium
   - **Contact**: https://x.com/character_ai
 
+- [WSUP AI](https://wsupai.app/) - Free AI character chat in the browser — talk to AI characters with no sign up. SFW only.
+  - **Tags**: `Free` `AI` `Chatbot` `Role-play` `SFW`
+  - **Pricing**: Free
+  - **Contact**: https://wsupai.app/
+
 - [Replika](https://replika.com) - An AI companion focused on emotional support and conversation.
   - **Tags**: `Free` `Subscription` `AI` `Companion` `Mental Health`
   - **Pricing**: Free, Premium
