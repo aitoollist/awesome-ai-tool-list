@@ -37,6 +37,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Image & Art
 
+- [FrameThrower](https://framethrower.ai) - AI-powered visual search for film stills, movie screenshots and cinematography references for inspiration, learning and faster filmmaking.
+  - `Freemium` `Visual Search` `Film Stills` `Cinematography`
+  - Organise references into lookbooks and export PDF boards; API, MCP server, npm SDK and ComfyUI integration available.
+
 - [AI Image Generator](https://www.aiimagegenerator.org) - A free AI-powered text-to-image and image-to-image art generator.
   - **Tags**: `Free` `AI` `Image` `Text-to-Image` `Image-to-Image`
   - **Pricing**: Free
