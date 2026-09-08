@@ -16,6 +16,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Chat & Text
 
+- [Aristotle](https://www.heyaristotle.com) - Conversational AI tutor that helps students in grades 6–12 reason through homework and test preparation across subjects.
+  - **Tags**: `Free Trial` `Subscription` `AI` `Voice` `Tutoring` `Education`
+  - **Pricing**: Three free introductory sessions; plans from $49/month
+  - **Contact**: https://x.com/hey_aristotle
+
 - [AI Japanese Tutor](https://www.aijapanesetutor.org) - AI voice chat bot for practising Japanese conversation and speaking skills in a variety of role-play scenarios. Learn JLPT vocabulary, grammar and Japanese verb conjugations with our voice-based exercises.
   - **Tags**: `Free` `AI` `Chatbot` `Role-play` `Japanese` `Language Learning` `JLPT`
   - **Pricing**: Free
