@@ -16,6 +16,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Chat & Text
 
+- [ModelRush](https://modelrush.ai/) - Hosted AI APIs for chat, image, video, and voice generation, with a browser playground for developers.
+  - `Paid` `API` `Chat` `Multimodal` `Developer Tools`
+  - OpenAI-compatible chat and model-specific media endpoints, billed through prepaid usage-based credits.
+
 - [AI Japanese Tutor](https://www.aijapanesetutor.org) - AI voice chat bot for practising Japanese conversation and speaking skills in a variety of role-play scenarios. Learn JLPT vocabulary, grammar and Japanese verb conjugations with our voice-based exercises.
   - **Tags**: `Free` `AI` `Chatbot` `Role-play` `Japanese` `Language Learning` `JLPT`
   - **Pricing**: Free
