@@ -72,6 +72,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Audio & Speech
 
+- [SkipCalls](https://skipcalls.com) - AI receptionist for service businesses that answers calls, captures leads, books appointments, and transfers callers.
+  - `Subscription` `AI` `Voice` `Business`
+  - Works with an existing business phone number and provides call summaries on web, iOS, and Android.
+
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
   - **Tags**: `Free` `Subscription` `AI` `Voice` `Text-to-Speech`
   - **Pricing**: Free tier, Premium
