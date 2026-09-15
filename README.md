@@ -131,6 +131,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `FreeTrial` `Email`
   - **Pricing**: Paid
  
+- [Sharkly.ai](https://sharkly.ai/) - Agent-native project workspace for coordinating people and AI coding agents.
+  - **Tags**: `project management` `AI Agents` `Coding Agents` `Productivity` `Collaboration` `Developer Tools`
+  - **Pricing**: Free
+ 
   
   
 ## Writing
