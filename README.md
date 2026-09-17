@@ -83,6 +83,8 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 - [Play.ht](https://play.ht) - AI voice generator with natural speech patterns.
   - **Tags**: `Free` `Subscription` `AI` `Voice` `Text-to-Speech`
+
+
   - **Pricing**: Free tier, Pro
   - **Contact**: https://x.com/play_ht
 
@@ -166,3 +168,6 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [SASA](https://www.usesasa.com/) - AI-powered accounting
   - **Tags**: `Free` `Subscription` `AI` `Accoutning` `Bookkeeping` `Receipt Scanning` `Invoicing`
   - **Pricing**: Free tier, Premium
+- [Sağlık Markam](https://saglikmarkam.com/) - AI-powered website, booking and visibility platform for health professionals.
+  - **Tags**: `Freemium` `AI` `Health` `Productivity` `SEO`
+  - **Pricing**: Subscription
