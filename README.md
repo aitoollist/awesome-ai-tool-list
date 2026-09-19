@@ -133,6 +133,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
  
   
   
+- [WTAgent](https://xixian42.github.io/wtagent) - Turn ChatGPT Web into a Codex-style local coding agent with your existing web subscription.
+  - **Tags**: `Free` `Open Source` `AI` `CLI` `Coding`
+  - **Pricing**: Free
+
 ## Writing
 
 - [AI Joke Generator](https://www.aijokegenerator.org) - An AI-powered joke generator.
