@@ -4,6 +4,7 @@ A curated list of awesome AI tools and applications. Visit [https://www.aitoolli
 
 ## Contributing
 
+- [MagicKit](https://magickit.47.80.8.174.nip.io) — **Free AI toolbox** for image generation (FLUX), text and video. No sign-up, no API key. MIT licensed. [Source](https://github.com/kaketiti/magickit)
 Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a pull request.
 
 ## Contents
