@@ -90,6 +90,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `Free` `Subscription` `AI` `Voice` `Text-to-Speech`
   - **Pricing**: Free tier, Premium
 
+- [Swifly](https://www.swifly.me/) - AI dictation and voice typing for macOS, Windows and iPhone that converts speech to text for emails, messages, documents and AI prompts.
+  - **Tags**: `Freemium` `AI` `Dictation` `Speech-to-Text` `Voice Typing`
+  - **Pricing**: Free Basic plan, paid individual and team plans
+  - **Contact**: hello@swifly.me
+
 ## Productivity
 
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
