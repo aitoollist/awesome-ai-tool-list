@@ -37,6 +37,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Image & Art
 
+- [LumiYing](https://lumiying.com/) - Create AI videos and images from text, image, audio, and video references in one workspace.
+  - **Tags**: `Paid` `AI` `Image` `Video` `Multimodal`
+  - **Pricing**: Credits system
+  - **Contact**: https://x.com/LumiYing_AI
+
 - [AI Image Generator](https://www.aiimagegenerator.org) - A free AI-powered text-to-image and image-to-image art generator.
   - **Tags**: `Free` `AI` `Image` `Text-to-Image` `Image-to-Image`
   - **Pricing**: Free
