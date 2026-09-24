@@ -92,6 +92,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Productivity
 
+- [API.market MCP Gateway](https://api.market/mcp) - Connect AI agents to an API catalog for generation, search, scraping, maps, and data through a hosted MCP gateway.
+  - `Free/Paid APIs` `AI agents` `MCP` `Developer tools`
+  - Five gateway tools with OAuth or API-key authentication. MCP endpoint: `https://api.market/api/mcp/gateway`.
+
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
   - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
   - **Pricing**: Free tier, Premium
