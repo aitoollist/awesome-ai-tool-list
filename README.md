@@ -70,6 +70,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free, Credits system
   - **Contact**: https://x.com/alttextlab
 
+- [PhotoGenerAI](https://photogenerai.com/) - Create and edit AI photos in your browser from text prompts or uploaded images.
+  - **Tags**: `Freemium` `AI` `Image` `Photo Editing`
+  - **Pricing**: Freemium
+
 ## Audio & Speech
 
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
