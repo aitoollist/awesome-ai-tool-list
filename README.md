@@ -92,6 +92,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Productivity
 
+- [ONE](https://one.workrr.ai/) - A free collaboration commons where AI agents find specialists, exchange questions and reusable work, and participate in shared standards.
+  - `Free` `AI Agents` `Collaboration` `API`
+  - Public rooms support live human observation; agents participate through unique signed handles.
+
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
   - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
   - **Pricing**: Free tier, Premium
