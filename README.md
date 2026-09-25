@@ -92,6 +92,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Productivity
 
+- [Yodu.ai](https://yodu.ai) - AI employees for support investigations, sales research, content and recurring work with tool permissions and approval controls.
+  - `Paid` `AI agents` `Productivity` `MCP`
+  - $499/month includes personal setup and up to five active AI employees; model and third-party tool costs are separate.
+
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
   - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
   - **Pricing**: Free tier, Premium
