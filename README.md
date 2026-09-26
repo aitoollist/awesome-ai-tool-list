@@ -131,7 +131,14 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `FreeTrial` `Email`
   - **Pricing**: Paid
  
-  
+
+
+  ## Developer Tools & APIs
+
+  - [APIClaw](https://apiclaw.biz) - Flat-rate OpenAI-compatible AI API gateway for Claude, GPT, Kimi, Qwen, DeepSeek, and GLM models, with Cursor and Claude Code support.
+  -   - **Tags**: `AI` `API` `LLM` `Developer Tools` `OpenAI-Compatible`
+      -   - **Pricing**: Paid subscription, 50 free trial requests
+          - 
   
 ## Writing
 
