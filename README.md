@@ -70,6 +70,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free, Credits system
   - **Contact**: https://x.com/alttextlab
 
+- [PawCinema](https://pawcinema.com/) - Create AI-assisted digital cat and dog portraits from original pet photos.
+  - `Paid with welcome credits` `AI` `Image-to-Image` `Pet Portraits` `Art`
+  - 36 art directions; 100 welcome credits provide one generation, followed by prepaid top-ups from US$5 for 500 credits, with no subscription.
+
 ## Audio & Speech
 
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
