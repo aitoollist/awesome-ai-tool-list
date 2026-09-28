@@ -92,6 +92,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Productivity
 
+- [Kepler CRM](https://keplercrm.com) - Recruitment CRM and ATS helping recruitment agencies manage candidates, clients, jobs and recruiting pipelines with AI-assisted workflows.
+  - `Paid with free trial` `AI` `Recruitment` `CRM` `ATS`
+  - Manages candidates, clients, jobs and recruiting pipelines in one hosted platform.
+
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
   - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
   - **Pricing**: Free tier, Premium
