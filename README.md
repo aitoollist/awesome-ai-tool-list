@@ -37,6 +37,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Image & Art
 
+- [CharaSync](https://charasync.com/) - Generate AI images and videos with reusable character references for visual storytelling.
+  - `Paid/Trial` `AI` `Image Generation` `Video Generation` `Character Consistency`
+  - Reuse character reference images across scenes and keep completed generations in account history.
+
 - [AI Image Generator](https://www.aiimagegenerator.org) - A free AI-powered text-to-image and image-to-image art generator.
   - **Tags**: `Free` `AI` `Image` `Text-to-Image` `Image-to-Image`
   - **Pricing**: Free
