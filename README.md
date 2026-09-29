@@ -35,6 +35,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `Free` `Subscription` `AI` `Companion` `Mental Health`
   - **Pricing**: Free, Premium
 
+- [Clarity](https://agent-tools.cloud/services/desktop-o99r0sf-tail935fba-ts-net-sub899) - Base mainnet x402 AI research API with free discovery, $2 USDC reports, and $0.001 OpenAI-compatible chat.
+  - **Tags**: `Paid` `AI` `API` `x402` `Research` `Agents` `Base` `USDC`
+  - **Pricing**: Free discovery; chat $0.001 USDC; report $2 USDC
+  - **Contact**: onelovefuck@gmail.com
+
 ## Image & Art
 
 - [AI Image Generator](https://www.aiimagegenerator.org) - A free AI-powered text-to-image and image-to-image art generator.
