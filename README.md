@@ -131,6 +131,12 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `FreeTrial` `Email`
   - **Pricing**: Paid
  
+- [aiFetchly](https://www.aifetchly.com) - Open-source desktop AI agent for business automation — lead generation, knowledge-library RAG, outreach, and scheduled workflows.
+  - **Tags**: `Freemium` `AI` `AI Agents` `Automation` `Productivity` `Open Source`
+  - **Pricing**: Free tier, Pro
+  - **Contact**: https://github.com/robertzengcn/aiFetchly
+
+ 
   
   
 ## Writing
