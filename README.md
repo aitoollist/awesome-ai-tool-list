@@ -70,12 +70,18 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free, Credits system
   - **Contact**: https://x.com/alttextlab
 
+
+- [Try AI Editor](https://tryaieditor.com) - Free AI image editor that runs entirely in your browser — no sign-up needed.
+  - **Tags**: `Freemium` `AI` `Image Editing` `Photo Editing` `Design Tools`
+  - **Pricing**: Freemium
+
 ## Audio & Speech
 
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
   - **Tags**: `Free` `Subscription` `AI` `Voice` `Text-to-Speech`
   - **Pricing**: Free tier, Premium
   - **Contact**: https://x.com/elevenlabsio
+
 
 - [Murf.ai](https://murf.ai) - AI voice generator for professional voiceovers.
   - **Tags**: `Free` `Subscription` `AI` `Voice` `Business`
