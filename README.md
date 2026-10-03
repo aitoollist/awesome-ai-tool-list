@@ -35,6 +35,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `Free` `Subscription` `AI` `Companion` `Mental Health`
   - **Pricing**: Free, Premium
 
+- [Tasda](https://tasda.com) - Discover, chat with and create human-designed AI representatives with their own personality, knowledge and voice.
+  - **Tags**: `Freemium` `Subscription` `AI` `Chatbot` `Voice` `No-code`
+  - **Pricing**: Free starter credits, Tasda Plus $8.99/month
+  - **Contact**: https://x.com/tasdacom
+
 ## Image & Art
 
 - [AI Image Generator](https://www.aiimagegenerator.org) - A free AI-powered text-to-image and image-to-image art generator.
