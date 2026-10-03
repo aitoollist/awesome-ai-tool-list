@@ -92,7 +92,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Productivity
 
-- [FameSwap MCP](https://app.fameswap.com/page/api-docs#mcp) - Connects MCP-compatible AI assistants to FameSwap’s social account marketplace for listings, offers and messages.
+- [FameSwap MCP](https://app.fameswap.com/page/api-docs#mcp) - Helps AI assistants find social media properties for sale: buy a YouTube channel, buy a TikTok account, and manage marketplace listings, offers and messages.
   - `Freemium` `MCP` `Social Media` `Marketplace`
   - 19 tools through a hosted Streamable HTTP endpoint with FameSwap account sign-in; account plan limits apply.
 
