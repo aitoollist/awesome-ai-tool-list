@@ -70,6 +70,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free, Credits system
   - **Contact**: https://x.com/alttextlab
 
+- [LooksLab Face Tools](https://www.lookslab.app/tools) - Measures face shape, symmetry, proportions and eye-corner angles from a photo with local processing.
+  - **Tags**: `Free` `AI` `Face Analysis` `Image` `Privacy`
+  - **Pricing**: Free
+  - Six browser tools with no sign-up; photos stay on the device.
+
 ## Audio & Speech
 
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
