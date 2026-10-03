@@ -92,6 +92,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Productivity
 
+- [CodexPluginStats](https://codex-plugin-stats.com) - Search Codex and Claude plugins and inspect their catalog sources.
+  - `Free` `Developer Tools` `Plugins` `MCP`
+  - Includes archived Codex package files and observed changes over time.
+
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
   - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
   - **Pricing**: Free tier, Premium
