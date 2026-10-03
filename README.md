@@ -16,6 +16,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Chat & Text
 
+- [Communicate](https://communicate.so/) - AI customer support with knowledge-grounded answers, website chat, and human handoff.
+  - `Paid from $19/month` `AI` `chatbot` `customer-support`
+  - Shared inbox supports human handoff from the website chat widget.
+
 - [AI Japanese Tutor](https://www.aijapanesetutor.org) - AI voice chat bot for practising Japanese conversation and speaking skills in a variety of role-play scenarios. Learn JLPT vocabulary, grammar and Japanese verb conjugations with our voice-based exercises.
   - **Tags**: `Free` `AI` `Chatbot` `Role-play` `Japanese` `Language Learning` `JLPT`
   - **Pricing**: Free
