@@ -92,6 +92,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Productivity
 
+- [FameSwap MCP](https://app.fameswap.com/page/api-docs#mcp) - Connects MCP-compatible AI assistants to FameSwap’s social account marketplace for listings, offers and messages.
+  - `Freemium` `MCP` `Social Media` `Marketplace`
+  - 19 tools through a hosted Streamable HTTP endpoint with FameSwap account sign-in; account plan limits apply.
+
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
   - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
   - **Pricing**: Free tier, Premium
