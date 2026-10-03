@@ -92,6 +92,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Productivity
 
+- [FirstSales](https://firstsales.io) - AI-assisted CRM and sales workflow platform with an authenticated MCP connector for compatible AI agents.
+  - `Paid subscription` `AI` `CRM` `Sales` `MCP`
+  - Authorized agents can read CRM data and create contacts through https://api.app.firstsales.io/mcp; documentation: https://developer.firstsales.io.
+
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
   - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
   - **Pricing**: Free tier, Premium
