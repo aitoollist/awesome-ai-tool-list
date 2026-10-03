@@ -92,6 +92,14 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Productivity
 
+- [Rankwise](https://tryrankwise.com) - Finds the questions ChatGPT, Perplexity, Claude, Gemini and Google AI Overviews answer without naming you, then drafts articles and approval-gated site fixes to win them back.
+  - **Tags**: `Free` `AI` `SEO` `AEO` `Marketing`
+  - **Pricing**: Free tier, Growth, Scale
+
+- [Debriefing](https://debriefing.io) - Competitive intelligence that tracks competitor pricing, product, hiring and funding moves and turns them into a five-minute brief with recommended actions.
+  - **Tags**: `AI` `Competitive Intelligence` `Research` `Business`
+  - **Pricing**: Paid
+
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
   - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
   - **Pricing**: Free tier, Premium
