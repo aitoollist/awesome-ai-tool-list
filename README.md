@@ -131,6 +131,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `FreeTrial` `Email`
   - **Pricing**: Paid
  
+- [NOS Workspace](https://nos-workspace.com/?utm_source=aitoollist&utm_medium=directory) - Paste AI-made HTML, get one link anyone can open.
+  - **Tags**: `Freemium` `Productivity` `AI tools` `No-code` `Presentations` `Education` `Design`
+  - **Pricing**: Freemium
+  - **Contact**: help@nos-workspace.com
+
   
   
 ## Writing
