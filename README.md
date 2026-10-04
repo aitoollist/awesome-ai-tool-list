@@ -13,6 +13,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [Productivity](#productivity)
 - [Writing](#writing)
 - [Finance](#finance)
+- [Legal](#legal)
 
 ## Chat & Text
 
@@ -166,3 +167,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [SASA](https://www.usesasa.com/) - AI-powered accounting
   - **Tags**: `Free` `Subscription` `AI` `Accoutning` `Bookkeeping` `Receipt Scanning` `Invoicing`
   - **Pricing**: Free tier, Premium
+
+## Legal
+
+- [Court Rules](https://www.courtrules.app/?ref=aitoollist) - Free federal court rules, local rules, judge standing orders and filing deadlines, with a deadline calculator for every district.
+  - **Tags**: `Free` `AI` `Legal` `Legal Tech` `Developer Tools`
+  - **Pricing**: Free
+  - **Contact**: courtrules.team@gmail.com
