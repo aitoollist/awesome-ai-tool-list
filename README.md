@@ -16,6 +16,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Chat & Text
 
+- [Honer AI](https://xoner4.github.io/) - Android AI assistant by HONER for chat, web search with sources, photos, documents and voice input.
+  - **Tags**: `AI` `Chatbot` `Android` `Productivity` `Writing`
+  - **Pricing**: Free APK download; online AI and search require internet, and service limits may apply.
+  - **Notable feature**: Stable Android 10.57.0 release, Russian and English interfaces, editable tables with CSV export.
+
 - [AI Japanese Tutor](https://www.aijapanesetutor.org) - AI voice chat bot for practising Japanese conversation and speaking skills in a variety of role-play scenarios. Learn JLPT vocabulary, grammar and Japanese verb conjugations with our voice-based exercises.
   - **Tags**: `Free` `AI` `Chatbot` `Role-play` `Japanese` `Language Learning` `JLPT`
   - **Pricing**: Free
