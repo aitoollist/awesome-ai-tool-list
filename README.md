@@ -100,6 +100,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `Free` `AI` `Learning` `Productivity` `Education`
   - **Pricing**: Free tier, Pro
 
+- [Qstudy AI](https://qstudy.ai) - Turn lecture recordings, PDFs, and slides into notes, flashcards, practice quizzes, explainer videos, and study songs.
+  - **Tags**: `Freemium` `AI` `Learning` `Education` `Study Tools` `Flashcards`
+  - **Pricing**: Free tier, Premium
+  - **Contact**: https://x.com/QstudyAI
+
 - [Notion](https://www.notion.so) - An all-in-one workspace for notes, tasks, and collaboration.
   - **Tags**: `Free` `Subscription` `Productivity` `Notes` `Collaboration`
   - **Pricing**: Free, Subscription
