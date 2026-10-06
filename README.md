@@ -70,6 +70,12 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free, Credits system
   - **Contact**: https://x.com/alttextlab
 
+- [Clout](https://tryclout.ai/) - Generate images of consistent AI characters and create photo and video content for social channels.
+  - **Tags**: `Paid` `AI` `Image Generation` `AI Characters` `Video`
+  - **Pricing**: Paid
+  - **Contact**: team@tryclout.ai
+
+
 ## Audio & Speech
 
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
