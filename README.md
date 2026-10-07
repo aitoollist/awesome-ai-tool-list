@@ -70,6 +70,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free, Credits system
   - **Contact**: https://x.com/alttextlab
 
+- [EasePaint](https://easepaint.com/) - Browser-based image toolkit with AI object and background removal, ID photos and free everyday image utilities.
+  - `Freemium` `AI` `Image editing` `Design`
+  - Six browser tools work without an account; AI editing uses credits or a Pro plan.
+
 ## Audio & Speech
 
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
