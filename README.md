@@ -37,6 +37,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Image & Art
 
+- [MyPhotoAI](https://myphotoai.io/) - Turn your selfies into AI headshots and portraits.
+  - **Tags**: `Paid` `AI` `Headshots` `Portraits` `Image Generation`
+  - **Pricing**: 3 photos for US$5 or every photo from one shoot for US$10. No subscription.
+  - Choose from 142 looks across 7 categories, with up to 5 looks per shoot.
+
 - [AI Image Generator](https://www.aiimagegenerator.org) - A free AI-powered text-to-image and image-to-image art generator.
   - **Tags**: `Free` `AI` `Image` `Text-to-Image` `Image-to-Image`
   - **Pricing**: Free
