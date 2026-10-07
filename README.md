@@ -72,6 +72,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Audio & Speech
 
+- [EaseVoice](https://www.easevoice.com/) - Browser-based AI voice studio for text-to-speech, authorized voice cloning and voice design.
+  - `Paid` `Free trial` `AI` `Voice` `Text-to-Speech`
+  - Supports solo narration and scripted dialogue; offers a one-time 1,000-character personal trial.
+
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
   - **Tags**: `Free` `Subscription` `AI` `Voice` `Text-to-Speech`
   - **Pricing**: Free tier, Premium
