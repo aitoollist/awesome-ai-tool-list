@@ -92,6 +92,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Productivity
 
+- [Picked by Agents](https://pickedbyagents.com) - Tracks whether AI assistants recommend local businesses, who they name instead, and why.
+  - `Freemium` `AI visibility` `SEO` `Research`
+  - Free pick report; monthly AI visibility monitoring for $79.
+
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
   - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
   - **Pricing**: Free tier, Premium
