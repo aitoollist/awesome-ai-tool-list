@@ -37,6 +37,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Image & Art
 
+- [AI Hairstyle Fit](https://aihairstylefit.com/) - Preview a haircut on a front-facing photo, compare it with the original, and prepare a barber card with cutting instructions.
+  - **Tags**: `Freemium` `AI` `Hairstyle` `Image-to-Image` `Personal Styling`
+  - **Pricing**: Verified new accounts receive 10 welcome credits for one preview; additional one-time credit packs start at $4.99.
+  - **Contact**: https://aihairstylefit.com/about
+
 - [AI Image Generator](https://www.aiimagegenerator.org) - A free AI-powered text-to-image and image-to-image art generator.
   - **Tags**: `Free` `AI` `Image` `Text-to-Image` `Image-to-Image`
   - **Pricing**: Free
