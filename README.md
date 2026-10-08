@@ -135,6 +135,8 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   
 ## Writing
 
+- [SEOAgent](https://seoagent.bot) - AI SEO software that grows organic traffic on autopilot.
+
 - [AI Joke Generator](https://www.aijokegenerator.org) - An AI-powered joke generator.
   - **Tags**: `Free` `AI` `Joke` `Humor` `Writing`
   - **Pricing**: Free
