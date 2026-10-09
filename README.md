@@ -37,6 +37,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Image & Art
 
+- [hairforge](https://beardstyles.co) - Compare beard styles and face-shape fit with optional AI beard previews.
+  - `Free guides/Paid AI credits` `beard styles` `AI preview` `grooming`
+  - Free style guides; optional AI previews use prepaid credits from $4.99 with no recurring subscription.
+
 - [AI Image Generator](https://www.aiimagegenerator.org) - A free AI-powered text-to-image and image-to-image art generator.
   - **Tags**: `Free` `AI` `Image` `Text-to-Image` `Image-to-Image`
   - **Pricing**: Free
