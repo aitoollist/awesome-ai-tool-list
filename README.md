@@ -130,7 +130,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [Ourdia] (https://ourdia.com/) - Reclaim 5 hours per week
   - **Tags**: `FreeTrial` `Email`
   - **Pricing**: Paid
- 
+-  [IamVERA](https://iamvera.ai) - Multi-model AI verification for confidential professional work. Vera helps legal advisers, healthcare professionals and other experts verify AI answers before acting on them.
   
   
 ## Writing
