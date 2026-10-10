@@ -70,6 +70,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free, Credits system
   - **Contact**: https://x.com/alttextlab
 
+- [Stunna](https://stunna-app.com/) - AI photo editor for iPhone and Android that restyles existing photos with camera-inspired looks and lighting edits.
+  - `Free download / Paid Pro` `Photo Editing` `iOS` `Android`
+  - Film, digicam, VHS and direct-flash looks; some effects and clean exports require Pro, and AI results vary.
+
 ## Audio & Speech
 
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
