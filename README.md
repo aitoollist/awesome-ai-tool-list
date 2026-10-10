@@ -9,6 +9,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 ## Contents
 - [Chat & Text](#chat--text)
 - [Image & Art](#image--art)
+- [Video & Animation](#video--animation)
 - [Audio & Speech](#audio--speech)
 - [Productivity](#productivity)
 - [Writing](#writing)
@@ -69,6 +70,12 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `Free` `Subscription` `AI` `Alt text` `Seo` `a11y`
   - **Pricing**: Free, Credits system
   - **Contact**: https://x.com/alttextlab
+
+## Video & Animation
+
+- [Rapframe](https://rapframe.com/) - Create short AI rap music videos from a text idea or a song and a reference photo.
+  - `Freemium` `AI` `Video` `Music` `Content Creation`
+  - Download 5- or 10-second clips in vertical, square, or widescreen format for release teasers and social posts.
 
 ## Audio & Speech
 
