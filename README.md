@@ -70,6 +70,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free, Credits system
   - **Contact**: https://x.com/alttextlab
 
+- [AIPetGen](https://aipetgen.com) - AIPetGen turns a photo of your dog, cat, or other pet, or a written description, into a new picture or a short animation.
+  - **Tags**: `Freemium` `AI` `Image` `Pet` `Text-to-Image` `Image-to-Image` `Animation`
+  - **Pricing**: Freemium
+  - **Contact**: contact@aipetgen.com
+
 ## Audio & Speech
 
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
