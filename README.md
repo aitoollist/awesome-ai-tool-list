@@ -92,6 +92,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Productivity
 
+- [Jev Agent](https://jev-agent.com/) - Independent AI judgment service for scoring essays and resumes, with hosted MCP and REST access for agents.
+  - `Freemium` `AI` `Productivity` `Education` `MCP`
+  - Returns structured judgments with probabilities; limited free usage and paid credits. Unofficial, not affiliated with or endorsed by TypeSafe AI.
+
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
   - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
   - **Pricing**: Free tier, Premium
