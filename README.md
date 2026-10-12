@@ -133,6 +133,14 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
  
   
   
+- [Botstest](https://botstest.com/) - Categorized reference directory for embodied AI and robotics resources.
+  - `Free` `AI resources` `Robotics` `Directory`
+  - Browse robot learning, simulation, models, datasets, ROS 2 and hardware categories.
+
+- [WeWorkBuddy](https://weworkbuddy.com/) - Source-linked topic-research workspace for AI creators with saved candidates, tasks and exports.
+  - `Free Explorer` `AI topics` `Research` `Productivity`
+  - Explorer allows five saved topics, twenty research tasks and three assessments per calendar month.
+
 ## Writing
 
 - [AI Joke Generator](https://www.aijokegenerator.org) - An AI-powered joke generator.
@@ -161,6 +169,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [TextCraft](https://github.com/suncloudsmoon/TextCraft) - Add-in integrating AI tools into Word.
   - **Tags**: `Free` `AI` `Paraphrasing` `Proofreading` `Writing`
   - **Pricing**: Free
+
+- [WarmQuant](https://warmquant.com/) - AI-assisted English writing from pasted notes using writing angles and author/reader personas.
+  - `Freemium` `AI` `Writing` `English`
+  - Free accounts get 10 generations per day with editable saved drafts, copy and download.
 
 ## Finance
 - [SASA](https://www.usesasa.com/) - AI-powered accounting
