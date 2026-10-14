@@ -131,6 +131,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `FreeTrial` `Email`
   - **Pricing**: Paid
  
+- [Local Model Guide](https://localmodelguide.com) - Reference for running open-weight LLMs locally, matching models to hardware by memory fit and tokens/sec.
+  - **Tags**: `Free` `AI` `LLM` `Local AI` `Hardware`
+  - **Pricing**: Free
+
   
   
 ## Writing
@@ -166,3 +170,6 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [SASA](https://www.usesasa.com/) - AI-powered accounting
   - **Tags**: `Free` `Subscription` `AI` `Accoutning` `Bookkeeping` `Receipt Scanning` `Invoicing`
   - **Pricing**: Free tier, Premium
+- [BusinessDataWorth](https://businessdataworth.com) - Free calculators estimating what a company's operational data (SOPs, CRM records, support tickets, contracts) could be worth to AI and data buyers.
+  - **Tags**: `Free` `AI` `Data` `Calculator` `Business`
+  - **Pricing**: Free
