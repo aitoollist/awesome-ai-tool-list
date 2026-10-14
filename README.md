@@ -90,6 +90,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `Free` `Subscription` `AI` `Voice` `Text-to-Speech`
   - **Pricing**: Free tier, Premium
 
+- [Somora](https://somora.media) - AI music platform with Kassio Studio, a browser DAW free for registered users.
+  - `Freemium` `music` `online-daw` `audio-editor`
+  - Import audio, edit piano-roll notes and drums, save projects to the account and export WAV.
+
 ## Productivity
 
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
