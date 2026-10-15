@@ -37,6 +37,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Image & Art
 
+- [imagetovideo.io](https://imagetovideo.io/) - Create short AI videos from still images or written prompts in a browser.
+  - **Tags**: `Freemium` `AI` `Video` `Image-to-Video` `Text-to-Video`
+  - **Pricing**: Introductory credits, then credit-based plans
+
 - [AI Image Generator](https://www.aiimagegenerator.org) - A free AI-powered text-to-image and image-to-image art generator.
   - **Tags**: `Free` `AI` `Image` `Text-to-Image` `Image-to-Image`
   - **Pricing**: Free
