@@ -133,6 +133,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
  
   
   
+- [AI Tools Radar](https://aitoolsradar.com/) - Discover and compare AI tools, models, agent skills, and prompts in ten languages.
+  - `Free public browsing` `AI` `Directory` `Research`
+  - Source-linked AI news and newsletters; vendor submission and promotion are separate paid services.
+
 ## Writing
 
 - [AI Joke Generator](https://www.aijokegenerator.org) - An AI-powered joke generator.
