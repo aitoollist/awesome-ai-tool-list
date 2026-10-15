@@ -70,6 +70,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free, Credits system
   - **Contact**: https://x.com/alttextlab
 
+- [Hotel Lobby AI Studio](https://hotellobbyaistudio.com) - Turn two photos of people or pets into a personalized 15-second lip-synced music video in an orange recording booth.
+  - `Paid` `AI` `Image-to-Video` `Music Video` `Lip Sync`
+  - $9.99 per video, with original audio, vertical or horizontal downloads, no watermark, and no subscription.
+
 ## Audio & Speech
 
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
