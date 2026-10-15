@@ -92,6 +92,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Productivity
 
+- [51发现导航](https://51cgw9.cc) - Curated Chinese AI tools directory with mainland-access and free-tier labels.
+  - **Tags**: `Free` `AI` `Directory` `China` `Discovery`
+  - **Pricing**: Free
+  - **Contact**: https://github.com/51fxdaohang
+
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
   - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
   - **Pricing**: Free tier, Premium
