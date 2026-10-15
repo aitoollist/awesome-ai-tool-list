@@ -92,6 +92,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Productivity
 
+- [Scanfile](https://scanfile.online/) - AI file translator for PDF documents, EPUB books, PowerPoint presentations and subtitles.
+  - `Freemium` `Translation` `PDF` `EPUB` `PowerPoint` `Subtitles`
+  - Format-specific free samples and pay-as-you-go credits without a subscription.
+
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
   - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
   - **Pricing**: Free tier, Premium
