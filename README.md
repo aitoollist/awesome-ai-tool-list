@@ -37,6 +37,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Image & Art
 
+- [AI 만화 번역기](https://www.mangatranslate.com/ko/ai-manga-translator/) - AI 만화 번역기는 Ficory LLC의 기업급 만화 리더로서 개인 사용자의 일괄·맞춤 번역, 스튜디오의 완전한 온라인 Photoshop 스타일 편집기, API를 통한 개인 작업 흐름 연동과 제품이 지원하는 모든 번역 언어를 제공합니다.
+  - `Freemium` `AI` `Comic Translation` `Image Editing`
+  - 개인은 여러 만화 페이지를 번역하고, 스튜디오는 번역 결과를 온라인에서 편집할 수 있습니다; 무료 이용에는 한도가 있으며 추가 사용은 유료입니다.
+
 - [AI Image Generator](https://www.aiimagegenerator.org) - A free AI-powered text-to-image and image-to-image art generator.
   - **Tags**: `Free` `AI` `Image` `Text-to-Image` `Image-to-Image`
   - **Pricing**: Free
