@@ -130,9 +130,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [Ourdia] (https://ourdia.com/) - Reclaim 5 hours per week
   - **Tags**: `FreeTrial` `Email`
   - **Pricing**: Paid
- 
-  
-  
+
+- [CurlShot](https://curlshot.com) - Screenshot API with a built-in MCP server, so AI agents can capture any URL, HTML or Markdown as an image, PDF or video.
+  - **Tags**: `Free` `AI Agents` `MCP` `API` `Screenshots` `Development`
+  - **Pricing**: Free tier, Paid plans
+
 ## Writing
 
 - [AI Joke Generator](https://www.aijokegenerator.org) - An AI-powered joke generator.
