@@ -72,6 +72,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Audio & Speech
 
+- [Audien](https://audien.to/) - Turns audio and video recordings into speaker-aware transcripts, meeting notes, summaries, and subtitles linked to their source timestamps.
+  - **Tags**: `Freemium` `AI` `Transcription` `Audio` `Productivity`
+  - **Pricing**: Free daily use without signup; Pro subscription
+
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
   - **Tags**: `Free` `Subscription` `AI` `Voice` `Text-to-Speech`
   - **Pricing**: Free tier, Premium
