@@ -70,6 +70,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free, Credits system
   - **Contact**: https://x.com/alttextlab
 
+- [PicYep](https://picyep.com/) - AI realistic photo generator: create lifelike photos from a text prompt or one reference photo.
+  - **Tags**: `Free` `Subscription` `AI` `Photo` `Text-to-Image` `Image-to-Image`
+  - **Pricing**: Free, Credits system
+
 ## Audio & Speech
 
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
