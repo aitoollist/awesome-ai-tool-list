@@ -90,6 +90,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `Free` `Subscription` `AI` `Voice` `Text-to-Speech`
   - **Pricing**: Free tier, Premium
 
+- [Vocal Separator](https://vocalseparator.com) - AI vocal and instrument separation with WAV stem downloads and a browser-based music practice workspace.
+  - `Freemium` `AI` `Audio` `Music` `Vocal Separation`
+  - Anonymous free use with daily limits; optional one-time $9.99 pack for 90 processing minutes.
+
 ## Productivity
 
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
