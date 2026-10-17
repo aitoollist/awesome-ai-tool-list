@@ -70,6 +70,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free, Credits system
   - **Contact**: https://x.com/alttextlab
 
+- [Shirt Lab](https://shirtlab.lol/) - Design custom T-shirts with AI, refine artwork in an editable studio, preview it on a garment, and order your shirt.
+  - `Paid` `Free Trial` `AI` `Image` `Design`
+  - Combines artwork creation and editing with garment previews and custom shirt ordering.
+
 ## Audio & Speech
 
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
