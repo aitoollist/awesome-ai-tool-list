@@ -92,6 +92,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Productivity
 
+- [Mysocial](https://mysocial.io/) - Social media intelligence that brings connected content history, research and brand context into your AI workflow.
+  - Tags: `Freemium` `AI` `Social Media` `Content Research` `MCP`
+  - Pricing: Free workspace tools and standard MCP; paid Content Memory plans from $49/month. [Current pricing](https://mysocial.io/pricing/).
+  - Feature: Connect supported tools to Claude, ChatGPT, Codex and other MCP clients through [remote MCP](https://mysocial.io/mcp/); platform and permission coverage varies.
+
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
   - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
   - **Pricing**: Free tier, Premium
