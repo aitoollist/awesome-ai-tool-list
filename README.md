@@ -133,6 +133,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
  
   
   
+- [Orkkid AI Citation Checker](https://orkkid.com/tools/ai-citation-checker) - Check whether ChatGPT and Perplexity cite your business for buyer questions, and which competitors they name instead.
+  - **Tags**: `Free` `AI` `SEO` `GEO` `Marketing`
+  - **Pricing**: Free
+
 ## Writing
 
 - [AI Joke Generator](https://www.aijokegenerator.org) - An AI-powered joke generator.
