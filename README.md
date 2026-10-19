@@ -130,7 +130,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [Ourdia] (https://ourdia.com/) - Reclaim 5 hours per week
   - **Tags**: `FreeTrial` `Email`
   - **Pricing**: Paid
- 
+ - [Reader Assist](https://readerassistextension.qsoft.sh) - Free Chrome extension that makes web pages easier to read, with syllable splitting, a reading ruler and reader view for dyslexia, ADHD and learning readers.
   
   
 ## Writing
