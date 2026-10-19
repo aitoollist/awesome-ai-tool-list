@@ -92,6 +92,12 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Productivity
 
+- [Ecommerce Data API](https://ecommercedataapi.com) - Structured Amazon research data for developers and AI agents through REST APIs, MCP and Agent Skills.
+  - **Tags**: `Paid` `API` `MCP` `AI Agents` `Ecommerce` `Research`
+  - **Pricing**: Paid
+
+
+
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
   - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
   - **Pricing**: Free tier, Premium
