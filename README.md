@@ -130,9 +130,13 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [Ourdia] (https://ourdia.com/) - Reclaim 5 hours per week
   - **Tags**: `FreeTrial` `Email`
   - **Pricing**: Paid
- 
-  
-  
+
+- [Nexscope](https://www.nexscope.ai/?co-from=aitoollist) - Ecommerce data, AI product images and videos for sellers and AI agents (Amazon, TikTok Shop, Walmart, Shopee, Temu, 1688 and more).
+  - **Tags**: `FreeTrial` `Ecommerce` `MCP` `API` `Product Research`
+  - **Pricing**: Free trial, Paid (from $29/month)
+  - **Contact**: service@nexscope.ai
+
+
 ## Writing
 
 - [AI Joke Generator](https://www.aijokegenerator.org) - An AI-powered joke generator.
