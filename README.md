@@ -133,6 +133,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
  
   
   
+- [Email List AI](https://emaillist.ai/) - AI-assisted preparation of US B2B contact-list files, including research, deduplication and email validation.
+  - `Paid` `AI` `Business` `Lead Generation`
+  - One-time files from $20, without a subscription.
+
 ## Writing
 
 - [AI Joke Generator](https://www.aijokegenerator.org) - An AI-powered joke generator.
