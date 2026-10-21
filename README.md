@@ -70,6 +70,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free, Credits system
   - **Contact**: https://x.com/alttextlab
 
+- [IntroVideo](https://introvideo.io/) - AI logo intro generator that turns any logo into a unique 8-second cinematic intro in minutes.
+  - **Tags**: `Freemium` `AI` `Video` `Logo` `Intro`
+  - **Pricing**: Free trial (1 generation), paid from $5 per intro
+
 ## Audio & Speech
 
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
