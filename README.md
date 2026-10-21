@@ -135,6 +135,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   
 ## Writing
 
+- [TriRank](https://trirankai.com/) - Compare Google Search Console performance with AI citation evidence and identify content gaps.
+  - `Paid` `SEO` `AI visibility` `Content`
+  - Keeps missing measurements separate from measured zero results; free public tools are available.
+
+
 - [AI Joke Generator](https://www.aijokegenerator.org) - An AI-powered joke generator.
   - **Tags**: `Free` `AI` `Joke` `Humor` `Writing`
   - **Pricing**: Free
