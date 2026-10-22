@@ -92,6 +92,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Productivity
 
+- [Loadout](https://loadout-blush.vercel.app) - Free and Pro version-pinned AI coding rule packs for Cursor, Claude Code, Copilot, and AGENTS.md.
+  - **Tags**: `Free` `AI` `Coding` `Developer Tools` `Cursor`
+  - **Pricing**: Free packs, Pro $1+ PWYW
+  - **Contact**: Made by Anthony Pan
+
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
   - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
   - **Pricing**: Free tier, Premium
