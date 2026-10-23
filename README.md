@@ -154,6 +154,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `Subscription` `AI` `Writing` `Business`
   - **Pricing**: Paid
 
+- [HumanPen](https://humanpen.net) - Freemium AI text humanizer that rewrites drafts to sound more natural while preserving meaning.
+  - **Tags**: `Freemium` `AI` `Writing` `Humanizer` `Paraphrasing`
+  - **Pricing**: Free tier, Paid
+  - **Contact**: nitubag316@gmail.com
+
 - [QuillBot](https://quillbot.com) - AI paraphrasing and writing enhancement tool.
   - **Tags**: `Free` `Subscription` `AI` `Paraphrasing` `Writing`
   - **Pricing**: Free tier, Premium
