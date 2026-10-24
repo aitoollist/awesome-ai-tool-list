@@ -133,6 +133,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
  
   
   
+- [Reelary](https://reelary.app/) - Local AI search for your own video and photo library: describe a shot and get the exact moment, on Mac and Windows.
+  - **Tags**: `Free` `AI` `Video` `Search` `Productivity`
+  - **Pricing**: Free version, Pro one-time purchase
+
 ## Writing
 
 - [AI Joke Generator](https://www.aijokegenerator.org) - An AI-powered joke generator.
