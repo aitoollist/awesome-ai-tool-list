@@ -133,6 +133,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
  
   
   
+- [FoxPhone](https://www.foxphone.com/) - AI agent for cloud Android phones — batch control, remote devices, and mobile automation.
+  - **Tags**: `AI` `Agent` `Automation` `Mobile` `Cloud Phone` `Productivity`
+  - **Pricing**: Paid
+
+
 ## Writing
 
 - [AI Joke Generator](https://www.aijokegenerator.org) - An AI-powered joke generator.
