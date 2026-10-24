@@ -92,6 +92,12 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Productivity
 
+- [Screen Issues](https://www.screenissues.com) - Free online screen tests and troubleshooting guides. No downloads required.
+  - **Tags**: `Free` `Online Tools` `Diagnostic` `Screen Test` `Productivity` `AI`
+  - **Pricing**: Free
+  - **Contact**: https://x.com/xiaofengzi941
+
+
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
   - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
   - **Pricing**: Free tier, Premium
