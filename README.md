@@ -92,6 +92,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Productivity
 
+- [FlashCrafter Growth Brief](https://www.flashcrafter.ai/growth-brief) - AI-assisted website and local marketing assessment for local service businesses.
+  - `Free` `AI` `Marketing` `Business`
+  - The free initial report highlights practical opportunities to improve a business's website and local marketing.
+
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
   - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
   - **Pricing**: Free tier, Premium
