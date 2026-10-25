@@ -130,6 +130,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [Ourdia] (https://ourdia.com/) - Reclaim 5 hours per week
   - **Tags**: `FreeTrial` `Email`
   - **Pricing**: Paid
+
+- [Handwriting To Text](https://handwritingtotext.online) - Convert handwriting photos and PDFs into editable text. Works with cursive, print and 120+ languages.
+  - **Tags**: `Freemium` `AI` `OCR` `Productivity` `Handwriting`
+  - **Pricing**: Free tier, Pro
  
   
   
