@@ -37,6 +37,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Image & Art
 
+- [Trilo3D AI](https://trilo3d.com) - Online AI image-to-3D studio that turns photos or multi-view references into textured 3D models with exports for games, ecommerce, AR, VFX, and design workflows.
+  - **Tags**: `Free tier` `AI` `3D` `Image-to-3D` `Textured Models`
+  - **Pricing**: Free tier
+
+
 - [AI Image Generator](https://www.aiimagegenerator.org) - A free AI-powered text-to-image and image-to-image art generator.
   - **Tags**: `Free` `AI` `Image` `Text-to-Image` `Image-to-Image`
   - **Pricing**: Free
