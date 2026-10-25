@@ -92,6 +92,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Productivity
 
+- [LightScreen](https://www.lightscreen.online) - Free fullscreen light screen. Turn any display into a flashlight, ambient light, or solid-color screen. No download or sign-up.
+  - **Tags**: `Free` `Online Tools` `Light Screen` `Productivity` `AI`
+  - **Pricing**: Free
+  - **Contact**: https://x.com/xiaofengzi941
+
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
   - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
   - **Pricing**: Free tier, Premium
