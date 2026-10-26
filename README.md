@@ -37,6 +37,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Image & Art
 
+- [VideoAny AI](https://videoany.ai/) - A multi-model image and video studio in the browser. Pick models such as Seedream, Wan, or Grok Imagine, start from a reusable template, and create or edit images and short videos in one place.
+  - **Tags**: `Freemium` `AI` `Video` `Image` `Productivity`
+  - **Pricing**: Freemium
+  - **Contact**: wailian-videoany@mail.grokbot.com
+
 - [AI Image Generator](https://www.aiimagegenerator.org) - A free AI-powered text-to-image and image-to-image art generator.
   - **Tags**: `Free` `AI` `Image` `Text-to-Image` `Image-to-Image`
   - **Pricing**: Free
