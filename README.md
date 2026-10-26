@@ -72,6 +72,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Audio & Speech
 
+- [PewTranslate](https://pewtranslate.com/) - Prelaunch church translation project with accounts closed and live translation unavailable; an illustrative demo and multilingual-service guides are available.
+  - `Paid (planned)` `Prelaunch` `Church` `Translation`
+  - Planned US$5 per hour per active language; live-service capabilities remain untested.
+
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
   - **Tags**: `Free` `Subscription` `AI` `Voice` `Text-to-Speech`
   - **Pricing**: Free tier, Premium
