@@ -70,6 +70,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free, Credits system
   - **Contact**: https://x.com/alttextlab
 
+- [Lookslate](https://lookslate.com/ai-makeup-try-on) - Explore six makeup styles through a free quiz with fictional AI-model examples and three practical steps.
+  - `Free sample quiz` `beauty` `makeup` `style inspiration`
+  - Public examples use pre-generated fictional portraits; they do not generate from the visitor’s own photo.
+
 ## Audio & Speech
 
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
