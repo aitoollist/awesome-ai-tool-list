@@ -72,6 +72,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Audio & Speech
 
+- [NovaSynth by Noveum](https://noveum.ai/en/novasynth) - Automated voice agent testing over phone or LiveKit with configurable AI callers, batch calls, recordings, transcripts and regression evaluations.
+  - **Tags**: `Freemium` `AI` `Voice` `Testing` `Developer Tools`
+  - **Pricing**: Free plan with 2,500 shared monthly credits; Pro from $69/month; voice testing uses 100 credits/minute
+
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
   - **Tags**: `Free` `Subscription` `AI` `Voice` `Text-to-Speech`
   - **Pricing**: Free tier, Premium
