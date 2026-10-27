@@ -70,6 +70,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free, Credits system
   - **Contact**: https://x.com/alttextlab
 
+- [AiKiss Video](https://aikissvideo.net) - AI kiss generator that turns a couple photo or two portraits into a private 5-second 720P kiss video.
+  - **Tags**: `Freemium` `AI` `Image-to-Video` `Video` `Photo`
+  - **Pricing**: Freemium (2 free previews; $1.49 per clip)
+
 ## Audio & Speech
 
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
