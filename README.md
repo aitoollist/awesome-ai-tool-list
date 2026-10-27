@@ -49,6 +49,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [Neural.love](https://neural.love) - AI art generator with historical photo restoration.
   - **Tags**: `Free` `Subscription` `AI` `Restoration` `Historical`
   - **Pricing**: Free, Credits system
+- [Photoshoot](https://photoshoot.app/?utm_source=github_com&utm_medium=backlink&utm_campaign=202609_w7_backlinks) - AI commercial photography studio that turns one product photo into studio-grade product shots, model photos, and campaign imagery for e-commerce.
+  - `Freemium` `AI` `Image` `E-commerce` `Photography`
+  - 30 free credits for new accounts
 
 - [NightCafe](https://nightcafe.studio) - AI art creation with multiple style options and community features.
   - **Tags**: `Free` `Subscription` `AI` `Art` `Community`
