@@ -133,6 +133,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
  
   
   
+- [Appie](https://appie.run) - AI marketing stack that learns your brand from your URL, then runs LinkedIn, Reddit, content, chatbot, influencer and email growth tools from one place.
+  - **Tags**: `Freemium` `AI` `Marketing` `Lead Generation` `Chatbot`
+  - **Pricing**: Free to start, Paid plans from $19/month
+  - **Contact**: https://x.com/appie_run
+
 ## Writing
 
 - [AI Joke Generator](https://www.aijokegenerator.org) - An AI-powered joke generator.
