@@ -70,6 +70,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free, Credits system
   - **Contact**: https://x.com/alttextlab
 
+- [NEON DUO Photo Guide](https://a2oliteneon.xyz/guides/photo-guide) - A free two-photo preparation checklist for AI dance workflows, covering clear faces, framing, file formats, adult consent, and role assignment.
+  - **Tags**: `Free Guide` `AI` `Photography` `Image Preparation`
+  - **Pricing**: Free guide; video generation is a separate credit-based service.
+
 ## Audio & Speech
 
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
