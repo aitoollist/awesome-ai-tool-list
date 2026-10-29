@@ -133,6 +133,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
  
   
   
+- [Vectoree](https://vectoree.ai) - Give your coding agent a backend: models, auth, Postgres and storage behind one key. Skill + CLI + OpenAI-compatible gateway. Pay-as-you-go.
+  - **Tags**: `Freemium` `AI` `Developer Tools` `AI Agents` `SaaS`
+  - **Pricing**: Freemium, pay-as-you-go
+  - **Contact**: https://x.com/shezepeng
+
 ## Writing
 
 - [AI Joke Generator](https://www.aijokegenerator.org) - An AI-powered joke generator.
