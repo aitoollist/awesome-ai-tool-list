@@ -72,6 +72,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Audio & Speech
 
+- [Melyx AI](https://melyx.ai/) - Melyx AI is a free AI music generator that turns text into original songs with custom lyrics, styles, and instrumental options.
+  - **Tags**: `Freemium` `AI` `Music` `Text-to-Song` `Lyrics`
+  - **Pricing**: Freemium
+
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
   - **Tags**: `Free` `Subscription` `AI` `Voice` `Text-to-Speech`
   - **Pricing**: Free tier, Premium
