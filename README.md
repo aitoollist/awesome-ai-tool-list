@@ -133,6 +133,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
  
   
   
+- [Shtab AI](https://shtab.app/ai/) - Built-in AI assistant for Shtab that answers questions about project work, prepares reports and creates or updates tasks in agent mode.
+  - `Paid` `AI` `Productivity` `Project Management`
+  - Separate AI licenses with monthly token allowances; available capabilities depend on the selected license.
+
 ## Writing
 
 - [AI Joke Generator](https://www.aijokegenerator.org) - An AI-powered joke generator.
