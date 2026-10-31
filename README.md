@@ -112,6 +112,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [SocialPilot AI Schedule](https://chatgpt.com/g/g-67b5982938d881918a04bc76979557fc-socialpilot-ai-scheduler) - The tool helps schedule, publish, and manage posts across multiple social platforms.
   - **Tags**: `Social Media AI Scheduler` `Social Media Management` `Social Media Marketing`
   - **Pricing**: Free
+
+- [OpenSparta](https://opensparta.com/en) - AI-enabled Telegram marketing workspace for teams to discover relevant public conversations and coordinate account, proxy, and campaign workflows.
+  - **Tags**: `AI` `Marketing` `Telegram` `Workspace`
+  - **Pricing**: No-card 14-day trial; account and proxy tools free for up to 50 accounts after the trial; paid modules from $9/month.
+  - **Notable**: Lead Radar is listed at $9/month for selected-community buying-request monitoring, AI ranking, and original-message evidence.
   
 - [HelloQuery](https://www.helloquery.com) - Lets your customers (or your team) chat directly with their data. 
   - **Tags**: `Free` `AI` `Development` `Database`
