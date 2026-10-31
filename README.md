@@ -42,6 +42,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free
   - **Contact**: https://x.com/aiimggenerator
 
+- [LayerGrab](https://layergrab.com) - Split any image into editable layers in your browser. Freemium AI cutouts and layer export for social posts, ads, ecommerce, and design work — no desktop install.
+  - **Tags**: `Freemium` `AI` `Image` `Design` `Layers` `Cutout`
+  - **Pricing**: Freemium
+  - **Contact**: BlaiseZiemehudfv@hotmail.com
+
 - [Lexica](https://lexica.art) - AI art search engine and generation platform.
   - **Tags**: `Free` `AI` `Search` `Generation` `Community`
   - **Pricing**: Free
