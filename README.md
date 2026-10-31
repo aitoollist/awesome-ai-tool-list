@@ -166,3 +166,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [SASA](https://www.usesasa.com/) - AI-powered accounting
   - **Tags**: `Free` `Subscription` `AI` `Accoutning` `Bookkeeping` `Receipt Scanning` `Invoicing`
   - **Pricing**: Free tier, Premium
+
+- [InvoiceKoi](https://www.invoicekoi.com/): Android invoicing for tradespeople with online AI voice drafts and receipt reading that require user review.
+  - **Tags**: `Freemium` `Android` `AI` `Invoicing` `Receipt Scanning`
+  - **Pricing**: Free offline drafts; subscription required to issue, share or print new numbered documents. Local prices and eligible offers appear in Google Play before purchase.
+  - **Contact**: jun@invoicekoi.com
+
