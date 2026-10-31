@@ -93,12 +93,12 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 ## Productivity
 
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
+  - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
+  - **Pricing**: Free tier, Premium
 
 - [Voqusa](https://www.voqusa.com/en/free/douyin-transcript) - Turns TikTok, Douyin, YouTube and Instagram videos into text transcripts. Web tool needs a free signup (5 free credits), then pay-as-you-go.
   - **Tags**: `Free tier` `Transcriber` `Video` `Productivity`
   - **Pricing**: Free credits, pay-as-you-go
-  - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
-  - **Pricing**: Free tier, Premium
 
 - [BloomNote](https://www.bloomnote.me/) - Turn your YouTube videos, files, and links into interactive notebooks for learning.
   - **Tags**: `Free` `AI` `Learning` `Productivity` `Education`
