@@ -130,7 +130,8 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [Ourdia] (https://ourdia.com/) - Reclaim 5 hours per week
   - **Tags**: `FreeTrial` `Email`
   - **Pricing**: Paid
- 
+
+ - [AEO Footnotes](https://aeofootnotes.com) - Sourced writing on AI visibility covering AEO, GEO, LLM visibility and AI search.
   
   
 ## Writing
