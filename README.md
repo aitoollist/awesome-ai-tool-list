@@ -37,6 +37,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Image & Art
 
+- [LobbyClip](https://www.lobbyclip.com/) - Turns two photos of people or pets into short Hotel Lobby duo videos with generated audio.
+  - `Paid` `image-to-video` `video` `creative`
+  - 1–15-second MP4 videos in 480p or 720p; paid generation starts at $1.49, with a free static PNG composition preview.
+
 - [AI Image Generator](https://www.aiimagegenerator.org) - A free AI-powered text-to-image and image-to-image art generator.
   - **Tags**: `Free` `AI` `Image` `Text-to-Image` `Image-to-Image`
   - **Pricing**: Free
