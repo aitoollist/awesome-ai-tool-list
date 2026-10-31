@@ -92,6 +92,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Productivity
 
+- [agent-qa](https://vostride.com) - Web and mobile QA for coding agents, with reusable tests through a CLI, dashboard and MCP server.
+  - **Tags**: `Free` `AI` `Testing` `YAML` `MCP` `Development`
+  - **Pricing**: Free package (FSL-1.1-ALv2); model/API and external-service costs may apply.
+  - **Feature**: Advanced memidex memory retains validated application knowledge, with evidence-gated self-improvement.
+
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
   - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
   - **Pricing**: Free tier, Premium
