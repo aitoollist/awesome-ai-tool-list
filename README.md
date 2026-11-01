@@ -37,6 +37,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Image & Art
 
+- [imgs-ai](https://imgs-ai.com/) - AI image generation, reference-photo editing and video creation through a web workspace, CLI and Agent Skills.
+  - **Tags**: `Freemium` `AI` `Image` `Video` `CLI`
+  - **Pricing**: Credit-based; daily manual check-in awards 1 free credit, with optional paid packs and memberships.
+
 - [AI Image Generator](https://www.aiimagegenerator.org) - A free AI-powered text-to-image and image-to-image art generator.
   - **Tags**: `Free` `AI` `Image` `Text-to-Image` `Image-to-Image`
   - **Pricing**: Free
