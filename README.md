@@ -130,7 +130,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [Ourdia] (https://ourdia.com/) - Reclaim 5 hours per week
   - **Tags**: `FreeTrial` `Email`
   - **Pricing**: Paid
- 
+- [OLVA](https://olva.ai) - Bot-free realtime AI meeting assistant with live question detection. 
   
   
 ## Writing
