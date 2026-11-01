@@ -127,6 +127,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free
   - **Contact**: [https://x.com/evantheproduct] (https://x.com/evantheproduct)
  
+- [MeetNewAI](https://meetnewai.com) - Free bilingual directory of AI tools, games, and MCP servers by job-to-be-done.
+  - **Tags**: `Free` `AI` `Directory` `MCP`
+  - **Pricing**: Free
+  - **Contact**: https://x.com/jqz_dev
+
 - [Ourdia] (https://ourdia.com/) - Reclaim 5 hours per week
   - **Tags**: `FreeTrial` `Email`
   - **Pricing**: Paid
