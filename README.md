@@ -92,6 +92,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Productivity
 
+- [Trial Radar](https://kovnerov.com/work/trial-radar/?utm_source=dir-aitoollist&utm_medium=directory) - Free Chrome extension that reads your Gmail, surfaces every free trial and subscription about to bill you, and warns 7 days before each charge.
+  - **Tags**: `Free` `Chrome Extension` `Gmail` `Subscriptions` `Productivity`
+  - **Pricing**: Free tier, Premium
+
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
   - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
   - **Pricing**: Free tier, Premium
