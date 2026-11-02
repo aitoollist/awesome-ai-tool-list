@@ -92,7 +92,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Productivity
 
-- [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
+- [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
   - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
   - **Pricing**: Free tier, Premium
 
@@ -131,7 +131,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `FreeTrial` `Email`
   - **Pricing**: Paid
  
-  
+- [Video Script Extractor](https://videoscriptextractor.com/) - AI video-to-text transcription tool. Get editable transcripts and subtitles from video links or uploads.
+  - **Tags**: `Freemium` `AI` `Transcription` `Video` `Subtitles`
+  - **Pricing**: Free tier, Starter $4.99, Pro $9.99, Studio $14.99
+ 
   
 ## Writing
 
