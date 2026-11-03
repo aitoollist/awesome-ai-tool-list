@@ -13,6 +13,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [Productivity](#productivity)
 - [Writing](#writing)
 - [Finance](#finance)
+- [Video](#video)
 
 ## Chat & Text
 
@@ -166,3 +167,13 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [SASA](https://www.usesasa.com/) - AI-powered accounting
   - **Tags**: `Free` `Subscription` `AI` `Accoutning` `Bookkeeping` `Receipt Scanning` `Invoicing`
   - **Pricing**: Free tier, Premium
+
+## Video
+
+- [TextRemover.video](https://textremover.video/) - Browser-based AI tool that removes text, captions and hardcoded subtitles from videos.
+  - **Tags**: `Freemium` `AI` `Video` `Video Editing` `Content Creation`
+  - **Pricing**: Freemium; free 30 processing seconds/month; paid from $4.90 one-time / subscriptions from $24.90/month
+
+
+
+
