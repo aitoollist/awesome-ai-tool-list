@@ -92,6 +92,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Productivity
 
+- [FreeAI Go](https://www.freeaigo.com/) - A bilingual directory to discover free AI tools, compare free tiers and usage limits, and visit official providers.
+  - `Free` `AI` `Directory` `Productivity`
+  - Browse by task and category without an account; third-party provider requirements vary.
+
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
   - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
   - **Pricing**: Free tier, Premium
