@@ -109,6 +109,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free tier, Pro
   - **Contact**: https://x.com/otter_ai
 
+- [AUTOMATER.ai](https://automater.ai/) - Tray app that keeps sessions, waiting alerts and usage for every AI coding tool (Claude Code, Codex, Cursor and more) in one place.
+  - **Tags**: `Free` `AI` `Productivity` `Coding Agents` `Desktop`
+  - **Pricing**: Free tier, Pro
+  - **Contact**: https://x.com/automater_ai
+
 - [SocialPilot AI Schedule](https://chatgpt.com/g/g-67b5982938d881918a04bc76979557fc-socialpilot-ai-scheduler) - The tool helps schedule, publish, and manage posts across multiple social platforms.
   - **Tags**: `Social Media AI Scheduler` `Social Media Management` `Social Media Marketing`
   - **Pricing**: Free
