@@ -166,3 +166,8 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [SASA](https://www.usesasa.com/) - AI-powered accounting
   - **Tags**: `Free` `Subscription` `AI` `Accoutning` `Bookkeeping` `Receipt Scanning` `Invoicing`
   - **Pricing**: Free tier, Premium
+
+- [FreeBillKit](https://freebillkit.com/) - Free business document generator. No signup.
+  - **Tags**: `Free` `Business` `Documents` `Invoice`
+  - **Pricing**: Free ($0)
+
