@@ -162,6 +162,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `Free` `AI` `Paraphrasing` `Proofreading` `Writing`
   - **Pricing**: Free
 
+- [Content Shape Checker](https://aivisibilitycensus.com/content-shape-checker/) - A free AI writing checker that runs four tested checks for AI patterns, quotes each flagged sentence with a fix, and needs no signup. The text never leaves your browser.
+  - **Tags**: `Free` `AI` `GEO` `AI Writing Checker` `SEO Research` `AI Search Visibility` `Open Data`
+  - **Pricing**: Free
+
 ## Finance
 - [SASA](https://www.usesasa.com/) - AI-powered accounting
   - **Tags**: `Free` `Subscription` `AI` `Accoutning` `Bookkeeping` `Receipt Scanning` `Invoicing`
