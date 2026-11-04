@@ -13,6 +13,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [Productivity](#productivity)
 - [Writing](#writing)
 - [Finance](#finance)
+- [Video](#video)
 
 ## Chat & Text
 
@@ -166,3 +167,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [SASA](https://www.usesasa.com/) - AI-powered accounting
   - **Tags**: `Free` `Subscription` `AI` `Accoutning` `Bookkeeping` `Receipt Scanning` `Invoicing`
   - **Pricing**: Free tier, Premium
+
+## Video
+
+- [Reelpeat](https://www.reelpeat.com) - AI product video creation for e-commerce sellers and brands.
+  - `Paid` `video` `ecommerce` `marketing`
+  - Review scripts and storyboards before generation, then refine scenes, copy and pacing through conversation.
