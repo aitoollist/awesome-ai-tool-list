@@ -70,6 +70,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free, Credits system
   - **Contact**: https://x.com/alttextlab
 
+- [LubanAI](https://lubanai.app) - AI product photos, background remover, upscaler and 20+ AI image, video and voice tools for online sellers.
+  - **Tags**: `Freemium` `AI` `Image` `E-commerce` `Product-Photo` `Background-Remover` `Upscaler`
+  - **Pricing**: Freemium
+
 ## Audio & Speech
 
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
