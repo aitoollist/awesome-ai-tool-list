@@ -92,6 +92,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Productivity
 
+- [Repostit Clips](https://repostit.io/clips/) - AI-assisted video repurposing that finds highlights in long videos and turns them into short clips with captions for social media.
+  - **Tags**: `Freemium` `AI` `Video Editing` `Content Repurposing` `Social Media`
+  - **Pricing**: Free tier, paid upgrades
+
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
   - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
   - **Pricing**: Free tier, Premium
