@@ -161,6 +161,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [TextCraft](https://github.com/suncloudsmoon/TextCraft) - Add-in integrating AI tools into Word.
   - **Tags**: `Free` `AI` `Paraphrasing` `Proofreading` `Writing`
   - **Pricing**: Free
+- [Coda One](https://www.codaone.ai) - Free AI detector with no daily limit and no signup, plus an AI humanizer, rewriter and grammar checker.
+  - **Tags**: `Freemium` `AI` `Detector` `Writing` `Grammar`
+  - **Pricing**: Free unlimited detector, no signup; writing tools free daily uses
 
 ## Finance
 - [SASA](https://www.usesasa.com/) - AI-powered accounting
