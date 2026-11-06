@@ -118,6 +118,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free tier, Basic, Pro, Enterprise
   - **Contact**: [https://x.com/leenyburger](https://x.com/leenyburger)
 
+- [Cloudbrowser](https://cloudbrowser.tv/) - Persistent cloud Chrome for AI agents, with isolated browser sessions and saved profiles.
+  - **Tags**: `Freemium` `AI` `Browser Automation` `Agent Infrastructure`
+  - **Pricing**: Free tier, Basic, Pro
+  - **Feature**: Create, pause, resume, and fork browser sessions; connect through scoped CDP links.
+
 - [Pie Chart Maker](https://piechartmaker.site) - Create Free Pie Charts Instantly
   - **Tags**: `Free` `pie chart` `Productivity` `Business`
   - **Pricing**: Free
