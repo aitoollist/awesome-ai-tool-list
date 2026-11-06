@@ -131,7 +131,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `FreeTrial` `Email`
   - **Pricing**: Paid
  
-  
+  - [Mac App Index](https://macappindex.com) - The best apps for your Mac. Discover hand-picked Mac apps, see what's hot today and browse the latest additions. Tags: Freemium, mac apps, app directory. Pricing: Freemium
   
 ## Writing
 
