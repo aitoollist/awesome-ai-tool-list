@@ -70,6 +70,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free, Credits system
   - **Contact**: https://x.com/alttextlab
 
+- [Super Resolution](https://superresolution.app/) - AI image upscaler that restores texture and clarity up to 10× with Real-ESRGAN — free to try, no signup.
+  - **Tags**: `AI Image` `Image Upscaler` `Super Resolution` `Photo Enhancement` `Design Tools`
+  - **Pricing**: Freemium, 3 free images/day
+  - **Contact**: https://x.com/lylove592017
+
 ## Audio & Speech
 
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
