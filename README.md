@@ -37,6 +37,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Image & Art
 
+- [Product Campaign Studio](https://productcampaignstudio.com) - Creates product photos, ads, video and social content for small ecommerce brands from their own product photos.
+  - `Paid` `Product Photography` `Ad Creative` `Ecommerce`
+  - Customers review campaign frames with Keep, Change or Skip; pricing is per finished asset with no subscription.
+
 - [AI Image Generator](https://www.aiimagegenerator.org) - A free AI-powered text-to-image and image-to-image art generator.
   - **Tags**: `Free` `AI` `Image` `Text-to-Image` `Image-to-Image`
   - **Pricing**: Free
