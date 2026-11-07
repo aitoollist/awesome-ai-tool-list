@@ -133,6 +133,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
  
   
   
+- [JobEmerge](https://www.jobemerge.work) - AI career copilot with job-fit testing, resume translation, and a Markdown resume editor.
+  - `Freemium` `career` `resume` `productivity`
+  - Supports 19 preset resume translation languages plus a custom option.
+
 ## Writing
 
 - [AI Joke Generator](https://www.aijokegenerator.org) - An AI-powered joke generator.
