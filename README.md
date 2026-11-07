@@ -166,3 +166,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [SASA](https://www.usesasa.com/) - AI-powered accounting
   - **Tags**: `Free` `Subscription` `AI` `Accoutning` `Bookkeeping` `Receipt Scanning` `Invoicing`
   - **Pricing**: Free tier, Premium
+  -  [Point](https://tetramlabs.com) - Affordable all-in-one accounting software for small and medium businesses — sales, invoicing, accounting, and customers in one workspace, with Dot AI, an AI assistant.
+  - **Tags**: `Paid` `Subscription` `AI` `Finance` `Accounting` `Invoicing`
+  - **Pricing**: $9.99/month up to 5 users, $99/year, 14-day free trial, no card required
+  - **Contact**: majid@tetramlabs.com
