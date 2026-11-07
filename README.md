@@ -92,6 +92,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Productivity
 
+- [Meetini](https://meetini.net/) - Meeting and interview assistant for Apple Silicon Macs with local live transcripts, meeting notes, and cloud AI follow-up and answer suggestions.
+  - `Paid` `Meetings` `Transcription` `Interview Preparation`
+  - Live captions and transcripts run locally on the Mac; Career adds 600 cloud AI minutes per month.
+
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
   - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
   - **Pricing**: Free tier, Premium
