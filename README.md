@@ -37,6 +37,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Image & Art
 
+- [AdVariq](https://advariq.com) - AI product marketing ad creatives and commercial visual generator for solo founders, indie makers, and e-commerce teams.
+  - **Tags**: `Freemium` `AI` `Image` `Ad Creative` `Ecommerce` `Marketing`
+  - **Pricing**: Free trial available, paid plans start from 29 USD/month
+  - **Contact**: https://advariq.com
+
 - [AI Image Generator](https://www.aiimagegenerator.org) - A free AI-powered text-to-image and image-to-image art generator.
   - **Tags**: `Free` `AI` `Image` `Text-to-Image` `Image-to-Image`
   - **Pricing**: Free
