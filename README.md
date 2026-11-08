@@ -130,6 +130,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [Ourdia] (https://ourdia.com/) - Reclaim 5 hours per week
   - **Tags**: `FreeTrial` `Email`
   - **Pricing**: Paid
+
+- [Extremely Autonomous Agents](https://extremely.agency) - Free, open-source autonomous AI agency that runs on your own computer, with agents that work around the clock and build the tools they're missing.
+  - **Tags**: `Free` `Open Source` `AI` `AI Agents` `Automation` `Productivity`
+  - **Pricing**: Free
  
   
   
