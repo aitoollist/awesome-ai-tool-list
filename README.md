@@ -37,6 +37,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Image & Art
 
+- [ReelAI](https://tryreelai.com/) - Create short AI videos from photos using ready-to-use templates.
+  - `Paid` `AI` `Video` `Templates`
+  - Paid subscription plans start at $19.90 per month.
+
 - [AI Image Generator](https://www.aiimagegenerator.org) - A free AI-powered text-to-image and image-to-image art generator.
   - **Tags**: `Free` `AI` `Image` `Text-to-Image` `Image-to-Image`
   - **Pricing**: Free
