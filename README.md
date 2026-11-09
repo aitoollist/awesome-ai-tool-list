@@ -92,6 +92,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Productivity
 
+- [Arcmira: YouTube Transcript Search](https://arcmira.com) - YouTube transcript search and monitoring for your AI: exact quotes, full transcripts and speakers.
+  - `Freemium` `Transcription` `Research` `API` `MCP`
+  - Find a passage, then retrieve the surrounding transcript before citing or clipping it. [API documentation](https://arcmira.com/docs)
+
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
   - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
   - **Pricing**: Free tier, Premium
