@@ -70,6 +70,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free, Credits system
   - **Contact**: https://x.com/alttextlab
 
+- [Ranch Brand Maker](https://ranchbrandmaker.com/) - Generate AI cattle-brand concepts from letters, numbers, symbols or an optional reference image.
+  - `Paid` `AI` `Image Generation` `Design`
+  - $9.90 once, tax included, for three concepts with transparent PNG downloads; no account or subscription.
+
 ## Audio & Speech
 
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
