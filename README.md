@@ -70,6 +70,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free, Credits system
   - **Contact**: https://x.com/alttextlab
 
+- [Fancy Cafe AI](https://aifancycafe.video/) - Turns one photo or two selfies into a 15-second cafe meme video.
+  - `Paid` `Image-to-Video` `Video` `Memes`
+  - Exports portrait or landscape clips in 480p or 720p using prepaid credits.
+
 ## Audio & Speech
 
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
