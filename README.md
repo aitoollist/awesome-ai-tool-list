@@ -69,6 +69,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `Free` `Subscription` `AI` `Alt text` `Seo` `a11y`
   - **Pricing**: Free, Credits system
   - **Contact**: https://x.com/alttextlab
+- [Pizyn](https://pizyn.com) - Multi-model AI image studio with GPT Image 2.6, Nano Banana, FLUX and Seedream in one credit system.
+  -     `Freemium` `image generation` `text-to-image` `ai art`
+  - 13 current-generation image models for text-to-image and editing, from 1 credit per image
 
 ## Audio & Speech
 
