@@ -35,6 +35,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `Free` `Subscription` `AI` `Companion` `Mental Health`
   - **Pricing**: Free, Premium
 
+- [UncensoredLabs](https://uncensoredlabs.dev/) - Uncensored AI developer platform for uncensored chat and uncensored LLM access (GLM and DeepSeek) through one OpenAI-compatible API.
+  - **Tags**: `Paid` `AI` `Chatbot` `Developer Tools` `OpenAI-Compatible`
+  - **Pricing**: Prepaid credits
+  - **Contact**: https://x.com/uncensoredlabs0
+
 ## Image & Art
 
 - [AI Image Generator](https://www.aiimagegenerator.org) - A free AI-powered text-to-image and image-to-image art generator.
