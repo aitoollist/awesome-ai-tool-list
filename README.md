@@ -133,6 +133,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
  
   
   
+- [Pikkai](https://pikkai.com/) - Independent AI product directory for discovering tools and publishing maker-submitted listings.
+  - `Free/Freemium` `AI` `Directory` `Discovery`
+  - Free browsing and optional one-time US$5 maker submission; currently unavailable after a hosting resource quota limit.
+
 ## Writing
 
 - [AI Joke Generator](https://www.aijokegenerator.org) - An AI-powered joke generator.
