@@ -92,6 +92,12 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Productivity
 
+- [easi.run](https://easi.run) - Self-hosted Chrome for AI agents via MCP or REST, with live human takeover for sign-ins and approvals.
+  - **Tags**: `Free` `Open Source` `AI Agents` `Browser Automation` `MCP`
+  - **Pricing**: Free AGPL-3.0-only software; own Linux/Docker server and agent/model costs are separate.
+  - **Contact**: https://x.com/jul1anodev
+
+
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
   - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
   - **Pricing**: Free tier, Premium
