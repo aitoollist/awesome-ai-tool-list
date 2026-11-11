@@ -22,7 +22,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Contact**: https://x.com/aijapanesetutor
 
 - [NeatFlow AI](https://neatflowai.com) - A convenient platform to use ChatGPT, Claude & Gemini.
-  - **Tags**: `Freemium` `Subscription` `Chatbot` `Productivity`
+  - **Tags**: `Freemium` `Subscription` `AI` `Chatbot` `Role-play`
   - **Pricing**: Credits system
   - **Contact**: https://x.com/neatflowai
 
@@ -36,6 +36,16 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free, Premium
 
 ## Image & Art
+
+- [DermInk](https://dermink.org) - Create custom tattoo concepts from text, photos or sketches with an AI tattoo generator.
+  - **Tags**: `Freemium` `AI` `Image` `Tattoo Design`
+  - **Pricing**: Free to try, paid credits
+- Supports text-to-tattoo, image remix and stencil-style concepts.
+
+- [graffiti generator](https://www.graffiti-generator.art) - Create graffiti text, names, tags and AI mural-style artwork from words or images.
+  - **Tags**: `Freemium` `AI` `Image` `Text-to-Image` `Design`
+  - **Pricing**: Free text editor, paid AI credits
+- Offers customizable text editing plus PNG/JPG exports.
 
 - [AI Image Generator](https://www.aiimagegenerator.org) - A free AI-powered text-to-image and image-to-image art generator.
   - **Tags**: `Free` `AI` `Image` `Text-to-Image` `Image-to-Image`
@@ -92,7 +102,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Productivity
 
-- [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
+- [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
   - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
   - **Pricing**: Free tier, Premium
 
@@ -130,9 +140,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [Ourdia] (https://ourdia.com/) - Reclaim 5 hours per week
   - **Tags**: `FreeTrial` `Email`
   - **Pricing**: Paid
- 
-  
-  
+
 ## Writing
 
 - [AI Joke Generator](https://www.aijokegenerator.org) - An AI-powered joke generator.
