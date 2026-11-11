@@ -22,7 +22,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Contact**: https://x.com/aijapanesetutor
 
 - [NeatFlow AI](https://neatflowai.com) - A convenient platform to use ChatGPT, Claude & Gemini.
-  - **Tags**: `Freemium` `Subscription` `AI` `Chatbot` `Role-play`
+  - **Tags**: `Freemium` `Subscription` `Chatbot` `Productivity`
   - **Pricing**: Credits system
   - **Contact**: https://x.com/neatflowai
 
