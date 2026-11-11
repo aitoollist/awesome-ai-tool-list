@@ -131,6 +131,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `FreeTrial` `Email`
   - **Pricing**: Paid
  
+- [Octuo](https://www.tutuo.ai/en/octuo/) - The one place to run the agents you already use: state the goal and Octuo prepares the work, hands each part to the right agent (Claude Code, Codex, MCP tools, browser and files), and follows up until it is done, with long jobs continuing after the chat closes.
+- `FreeTrial` `AI Agents` `Productivity` `macOS` `iOS`
+- Tool calls run on your own Mac (macOS 15+, native), with Canvas views, a visible and editable memory graph, and an encrypted Secrets Vault the model never sees; the iPhone companion (iOS 18+) shows everything the Mac side sees and lets you answer decisions and tick off checklists on the go. Plans from $20/month; 1,000 trial credits, no card required.
   
   
 ## Writing
