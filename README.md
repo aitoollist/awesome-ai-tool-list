@@ -37,6 +37,16 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Image & Art
 
+- [DermInk](https://dermink.org) - Create custom tattoo concepts from text, photos or sketches with an AI tattoo generator.
+  - **Tags**: `Freemium` `AI` `Image` `Tattoo Design`
+  - **Pricing**: Free to try, paid credits
+- Supports text-to-tattoo, image remix and stencil-style concepts.
+
+- [graffiti generator](https://www.graffiti-generator.art) - Create graffiti text, names, tags and AI mural-style artwork from words or images.
+  - **Tags**: `Freemium` `AI` `Image` `Text-to-Image` `Design`
+  - **Pricing**: Free text editor, paid AI credits
+- Offers customizable text editing plus PNG/JPG exports.
+
 - [AI Image Generator](https://www.aiimagegenerator.org) - A free AI-powered text-to-image and image-to-image art generator.
   - **Tags**: `Free` `AI` `Image` `Text-to-Image` `Image-to-Image`
   - **Pricing**: Free
