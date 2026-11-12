@@ -72,6 +72,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Audio & Speech
 
+- [AI Rap Video](https://rapaivideo.net) - AI generator that turns two selfies into a lip-synced rap music video with original AI lyrics and beat.
+  - `Freemium` `music-video` `rap` `lip-sync` `video-generation`
+  - Produces a ready-to-share rap video in about three minutes directly in the browser.
+
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
   - **Tags**: `Free` `Subscription` `AI` `Voice` `Text-to-Speech`
   - **Pricing**: Free tier, Premium
