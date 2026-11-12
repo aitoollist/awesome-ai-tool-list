@@ -91,6 +91,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free tier, Premium
 
 ## Productivity
+- [Moring AI](https://www.moring.ai/ai-control-plane/) - Enterprise AI control plane for governing agent actions with execution policies, human approvals, tool access controls, and audit records.  
+- **Tags**: `AI` `Enterprise` `Governance` `Agents`  
+- **Pricing**: Paid; contact Moring for enterprise pricing
 
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
   - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
