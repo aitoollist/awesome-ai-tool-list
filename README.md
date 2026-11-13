@@ -50,6 +50,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `Free` `Subscription` `AI` `Restoration` `Historical`
   - **Pricing**: Free, Credits system
 
+- [HeirloomPix](https://heirloompix.com/) - Restore scratches, fading, and yellowing in old photos.
+  - `Paid` `AI` `Photo restoration` `Image`
+  - Compare the original and restored images side by side.
+
 - [NightCafe](https://nightcafe.studio) - AI art creation with multiple style options and community features.
   - **Tags**: `Free` `Subscription` `AI` `Art` `Community`
   - **Pricing**: Free, Credits system
