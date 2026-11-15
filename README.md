@@ -92,6 +92,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Productivity
 
+- [No Stairs Please](https://nostairsplease.com/) - Every small stage in all 50 states, and who books it, with an AI-ready MCP endpoint.
+  - **Tags**: `Free` `AI` `MCP` `Music` `Directory`
+  - **Pricing**: Free, Freemium
+  - **MCP**: https://nostairsplease.com/mcp
+
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
   - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
   - **Pricing**: Free tier, Premium
