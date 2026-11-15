@@ -130,9 +130,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [Ourdia] (https://ourdia.com/) - Reclaim 5 hours per week
   - **Tags**: `FreeTrial` `Email`
   - **Pricing**: Paid
- 
-  
-  
+- [PdfWord](https://pdfwordtools.pages.dev) - 61 free PDF tools that run 100% in your browser.
+  - **Tags**: `Free` `PDF` `Productivity` `PDF Tools`
+  - **Pricing**: Free
+  - **Contact**: pdfwordtools@gmail.com
+
 ## Writing
 
 - [AI Joke Generator](https://www.aijokegenerator.org) - An AI-powered joke generator.
