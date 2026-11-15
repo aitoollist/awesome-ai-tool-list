@@ -35,6 +35,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `Free` `Subscription` `AI` `Companion` `Mental Health`
   - **Pricing**: Free, Premium
 
+- [Sammi: AI Girlfriend](https://sammiai.app/) - Android AI companion for text chat, voice interaction and creative roleplay with fictional characters.
+  - `Freemium` `AI` `Chatbot` `Companion` `Role-play`
+  - Character customization; free Android download with in-app purchases.
+
 ## Image & Art
 
 - [AI Image Generator](https://www.aiimagegenerator.org) - A free AI-powered text-to-image and image-to-image art generator.
