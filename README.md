@@ -92,6 +92,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Productivity
 
+- [FlashData](https://flashdata.dev/docs?utm_source=aitoollist&utm_medium=directory&utm_campaign=gtm) - API and MCP tools for AI agents: Google Search returns web/news/image/shopping/video/place JSON, YouTube Data retrieves metadata and existing captions, and YouTube Download delivers media to user-owned S3/GCS/Azure/S3-compatible storage.
+  - `Paid; shared one-time trial, no credit card` `API` `MCP` `AI-agent tools`
+  - Search returns results rather than full linked-page text; captions are retrieved, not transcribed or translated; downloads require storage write access and content-use rights, with delivery-byte billing and separate storage charges. Data requests are usage-billed; the trial is not a recurring free allowance, and MIT clients do not make the hosted API free or open source.
+
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
   - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
   - **Pricing**: Free tier, Premium
