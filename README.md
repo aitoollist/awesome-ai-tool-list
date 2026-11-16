@@ -34,6 +34,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [Replika](https://replika.com) - An AI companion focused on emotional support and conversation.
   - **Tags**: `Free` `Subscription` `AI` `Companion` `Mental Health`
   - **Pricing**: Free, Premium
+- [Waifu](https://wanmei.chat/en/home) - Chat and roleplay with fictional AI characters.
+  - `Freemium` `AI` `Chatbot` `Role-play`
+  - Start with a character-specific opening scene.
+
 
 ## Image & Art
 
