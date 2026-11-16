@@ -70,6 +70,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free, Credits system
   - **Contact**: https://x.com/alttextlab
 
+- [Tesla Wrap Gallery](https://teslawrap.io/design) - Free online gallery and designer for Tesla Paint Shop wraps with 6,000+ digital wrap designs for Model 3, Model Y and Cybertruck, 2D/3D browser studio preview and model-matched PNG export.
+  - **Tags**: `Free` `AI` `Design` `Image` `3D`
+  - **Pricing**: Free
+  - **Contact**: https://x.com/teslawrapweb
+
 ## Audio & Speech
 
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
