@@ -72,6 +72,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Audio & Speech
 
+- [Quiet Typist](https://quiettypist.com/) - On-device audio and video transcription software with timestamps and speaker labels for Windows, macOS, Linux and Android.
+  - **Tags**: `AI` `Transcription` `Offline` `Privacy`
+  - **Pricing**: Limited-time trial
+  - Transcribes locally after downloading a model; exports TXT, SRT and Word. Desktop also supports batch processing and a local MCP server.
+
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
   - **Tags**: `Free` `Subscription` `AI` `Voice` `Text-to-Speech`
   - **Pricing**: Free tier, Premium
