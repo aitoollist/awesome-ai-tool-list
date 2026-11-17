@@ -46,6 +46,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `Free` `AI` `Search` `Generation` `Community`
   - **Pricing**: Free
 
+- [Liveify](https://videolivephoto.com/photo-to-live-photo) - Animate a still photo into a Live Photo with AI.
+  - **Tags**: `Credits` `AI` `Image` `Live Photo`
+  - **Pricing**: Sign-in and credits required; no verified iPhone Photos import of the web .livp download
+
 - [Neural.love](https://neural.love) - AI art generator with historical photo restoration.
   - **Tags**: `Free` `Subscription` `AI` `Restoration` `Historical`
   - **Pricing**: Free, Credits system
