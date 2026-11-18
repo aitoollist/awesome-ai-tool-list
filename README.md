@@ -13,6 +13,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [Productivity](#productivity)
 - [Writing](#writing)
 - [Finance](#finance)
+- [Developer Tools](#developer-tools)
 
 ## Chat & Text
 
@@ -166,3 +167,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [SASA](https://www.usesasa.com/) - AI-powered accounting
   - **Tags**: `Free` `Subscription` `AI` `Accoutning` `Bookkeeping` `Receipt Scanning` `Invoicing`
   - **Pricing**: Free tier, Premium
+
+## Developer Tools
+
+- [Amazon Scraper API](https://www.pangolinfo.com/amazon-scraper-api/?utm_source=aitoollist.org&utm_medium=directory&utm_campaign=listing) - Real-time Amazon product, search & bestseller data as JSON
+  - **Tags**: `Web Scraping` `Data API` `E-commerce` `Amazon` `Developer Tools` `AI`
+  - **Pricing**: Free ($0), 60 free credits/month, no card
+  - **Contact**: csm@pangolinfo.com
+  - Get real-time Amazon product, search, review and best-seller data in structured JSON across 20+ marketplaces. 99% success rate, 60 free credits/month, no card.
