@@ -130,9 +130,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [Ourdia] (https://ourdia.com/) - Reclaim 5 hours per week
   - **Tags**: `FreeTrial` `Email`
   - **Pricing**: Paid
- 
-  
-  
+- AlqEdge Skills - Sell-ready AI agent skills (SKILL.md packs) for one-person companies: Virtual CFO, Virtual CMO, Opportunity Validation, and Skill Go-To-Market.
+  - **Tags**: `AI Agents` `SKILL.md` `Productivity` `SaaS` `One-person company`
+  - **Pricing**: $9 - $19 one-time, free Lite versions
+  - **Contact**: https://skills.alqedge.com
+
 ## Writing
 
 - [AI Joke Generator](https://www.aijokegenerator.org) - An AI-powered joke generator.
