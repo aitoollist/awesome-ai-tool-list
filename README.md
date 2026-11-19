@@ -158,6 +158,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `Free` `Subscription` `AI` `Paraphrasing` `Writing`
   - **Pricing**: Free tier, Premium
 
+- [Script Artisan AI](https://scriptartisan.com) - Turns one prompt into a complete screenplay for film, TV or theatre, then renders a finished AI film from 1 minute to 1 hour.
+  - **Tags**: `Free` `AI` `Screenwriting` `Video` `Film`
+  - **Pricing**: 10 free credits, then pay-as-you-go packs (no subscription)
+
 - [TextCraft](https://github.com/suncloudsmoon/TextCraft) - Add-in integrating AI tools into Word.
   - **Tags**: `Free` `AI` `Paraphrasing` `Proofreading` `Writing`
   - **Pricing**: Free
