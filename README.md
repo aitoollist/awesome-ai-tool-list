@@ -130,9 +130,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [Ourdia] (https://ourdia.com/) - Reclaim 5 hours per week
   - **Tags**: `FreeTrial` `Email`
   - **Pricing**: Paid
- 
-  
-  
+
+- [Higher Self AI](https://bethe.one/meet-higher-self-ai) - A guided reflection coach for working through decisions and habits and choosing a practical next step.
+  - `Free/Premium` `reflection` `journaling` `productivity`
+  - Guides a Vibe Check and helps turn the reflection into one action for today.
+
 ## Writing
 
 - [AI Joke Generator](https://www.aijokegenerator.org) - An AI-powered joke generator.
