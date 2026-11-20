@@ -69,6 +69,12 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `Free` `Subscription` `AI` `Alt text` `Seo` `a11y`
   - **Pricing**: Free, Credits system
   - **Contact**: https://x.com/alttextlab
+  - [Face Swap AI](https://faceswapai.com/) - Free online AI face swap tool for photos, videos, and GIFs with fast and realistic results.
+    - **Tags:** `AI` `Face Swap` `Image Editing` `Video Editing` `Deepfake`
+    - **Pricing:** One-time credit packs from $19.99
+    - [Deep Swap AI](https://deepswapai.com/) - AI-powered face swap and creative media editing platform for videos, photos, and GIFs in seconds.
+    - **Tags:** `AI` `Face Swap` `Video Editing` `Photo Editing` `Content Creation`
+    - **Pricing:** One-time credit packs from $19.99
 
 ## Audio & Speech
 
