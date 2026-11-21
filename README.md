@@ -130,6 +130,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [Ourdia] (https://ourdia.com/) - Reclaim 5 hours per week
   - **Tags**: `FreeTrial` `Email`
   - **Pricing**: Paid
+
+- [FlashData](https://flashdata.dev/) - Start with a free trial (no credit card required) — unified real-time Google Search SERP, YouTube Data & transcripts, and cloud-storage video download APIs, CLI, and hosted MCP server for AI agents.
+  - **Tags**: `Free Trial` `AI` `Development` `API` `MCP` `Google Search` `YouTube`
+  - **Pricing**: Free trial (no credit card required), Pay-as-you-go ($0/mo: $1.00/1k Google searches, $0.50/1k YouTube Data, $0.10/GB download), optional plans from $49/mo
+  - **Contact**: [https://x.com/Flashdatadev](https://x.com/Flashdatadev)
  
   
   
