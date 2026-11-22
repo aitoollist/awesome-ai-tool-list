@@ -42,6 +42,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free
   - **Contact**: https://x.com/aiimggenerator
 
+- [Reletter](https://aiedittextinimage.com/) - Detect and edit English and Chinese text in screenshots, menus, and product photos.
+  - `Freemium` `image editing` `OCR` `browser`
+  - Standard browser editing and watermarked previews are free. Clean PNG exports and optional Pro redraw use credits.
+
 - [Lexica](https://lexica.art) - AI art search engine and generation platform.
   - **Tags**: `Free` `AI` `Search` `Generation` `Community`
   - **Pricing**: Free
