@@ -166,3 +166,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [SASA](https://www.usesasa.com/) - AI-powered accounting
   - **Tags**: `Free` `Subscription` `AI` `Accoutning` `Bookkeeping` `Receipt Scanning` `Invoicing`
   - **Pricing**: Free tier, Premium
+
+- [QuickReceipt](https://greatwork.company/tools/quickreceipt?ref=aitoollist) - QuickReceipt reads a receipt photo and pulls out the vendor, date, line items and totals, ready to export to CSV.
+  - `Paid` `receipts` `OCR` `expense tracking` `web`
+  - Credit packs from $4.99, no subscription.
