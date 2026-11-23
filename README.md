@@ -70,6 +70,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free, Credits system
   - **Contact**: https://x.com/alttextlab
 
+- [RevivePhoto](https://greatwork.company/tools/revivephoto?ref=aitoollist) - RevivePhoto fixes scratches, tears, fading and grain in old photos and colorizes black and white prints.
+  - `Paid` `photo restoration` `colorization` `web`
+  - Credit packs from $4.99 for 3 photos, no subscription.
+
 ## Audio & Speech
 
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
