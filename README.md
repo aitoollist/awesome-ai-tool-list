@@ -70,6 +70,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free, Credits system
   - **Contact**: https://x.com/alttextlab
 
+- [UpscalePic](https://greatwork.company/tools/upscalepic?ref=aitoollist) - UpscalePic enlarges PNG, JPG and WebP images up to 4x, adding detail instead of stretching pixels.
+  - `Paid` `image upscaling` `image enhancement` `web`
+  - Credit packs from $4.99, no subscription, credits never expire.
+
 ## Audio & Speech
 
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
