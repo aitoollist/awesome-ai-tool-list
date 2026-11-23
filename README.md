@@ -70,6 +70,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free, Credits system
   - **Contact**: https://x.com/alttextlab
 
+- [ClearBG](https://greatwork.company/tools/clearbg?ref=aitoollist) - ClearBG removes the background from a photo and returns a transparent PNG.
+  - `Paid` `image editing` `background removal` `web`
+  - Preview before you buy, credit packs from $4.99, no subscription.
+
 ## Audio & Speech
 
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
