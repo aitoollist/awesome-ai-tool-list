@@ -133,6 +133,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
  
   
   
+
+- [TextFromImage](https://greatwork.company/tools/textfromimage?ref=aitoollist) - TextFromImage reads the text in a screenshot, photo of a page, scan or slide and gives you an editable .txt file.
+  - `Paid` `OCR` `image to text` `web`
+  - Credit packs from $4.99, no subscription.
+
 ## Writing
 
 - [AI Joke Generator](https://www.aijokegenerator.org) - An AI-powered joke generator.
