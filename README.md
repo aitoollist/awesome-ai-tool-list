@@ -90,6 +90,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `Free` `Subscription` `AI` `Voice` `Text-to-Speech`
   - **Pricing**: Free tier, Premium
 
+- [VoiceScribe](https://greatwork.company/tools/voicescribe?ref=aitoollist) - VoiceScribe turns voice memos, interviews and meeting recordings into a text transcript.
+  - `Paid` `transcription` `speech to text` `web`
+  - Detects the language across 99 languages, files up to 50MB, from $4.99.
+
 ## Productivity
 
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
