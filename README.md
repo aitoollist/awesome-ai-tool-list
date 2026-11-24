@@ -70,6 +70,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free, Credits system
   - **Contact**: https://x.com/alttextlab
 
+- [Vynyo](https://vynyo.com/) - Browser-based AI creative studio for hairstyle and hair-color previews, image generation and editing, product photography, image translation, and video creation.
+  - **Tags**: `Freemium` `AI` `Image` `Video` `Hair Try-On`
+  - **Pricing**: Free, Credits system
+  - **Contact**: https://x.com/WZhou66454
+
 ## Audio & Speech
 
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
