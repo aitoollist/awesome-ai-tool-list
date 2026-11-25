@@ -92,6 +92,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Productivity
 
+- [TrolyPage](https://trolypage.com/) - AI-assisted customer support and social publishing in a shared workspace.
+  - `Free trial / Paid` `customer-support` `shared-inbox` `social-scheduling`
+  - Uses business FAQs and product details to guide AI replies, with team handoff for connected channels.
+
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
   - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
   - **Pricing**: Free tier, Premium
