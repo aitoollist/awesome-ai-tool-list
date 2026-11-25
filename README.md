@@ -92,6 +92,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Productivity
 
+- [King AI](https://usekingai.com) - An AI agent that can do anything a human can do from a computer. Type the job in one sentence and the finished work comes back.
+  - **Tags**: `AI Agent` `Automation` `Productivity` `Assistant`
+  - **Pricing**: Invite-only beta (waitlist)
+  - **Contact**: hello@usekingai.com
+
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
   - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
   - **Pricing**: Free tier, Premium
