@@ -13,6 +13,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [Productivity](#productivity)
 - [Writing](#writing)
 - [Finance](#finance)
+- [AI News](#ai-news)
 
 ## Chat & Text
 
@@ -166,3 +167,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [SASA](https://www.usesasa.com/) - AI-powered accounting
   - **Tags**: `Free` `Subscription` `AI` `Accoutning` `Bookkeeping` `Receipt Scanning` `Invoicing`
   - **Pricing**: Free tier, Premium
+
+## AI News
+
+- [DailyCited](https://dailycited.com) - AI news verification site that labels every AI launch and rumor Official, Reported, Statement or Unconfirmed, with the source linked.
+  - **Tags**: `Free` `AI` `News` `News Aggregator` `RSS`
+  - **Pricing**: Free
+  - **RSS**: https://dailycited.com/feed.xml
