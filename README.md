@@ -70,6 +70,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free, Credits system
   - **Contact**: https://x.com/alttextlab
 
+- [Auteo](https://auteo.ai/) - Browser-based AI creative suite for generating videos, images, voiceovers, and music.
+  - `Subscription` `Image` `Video` `Voiceover`
+  - Generate visuals and audio in one workspace for a short video or ad.
+
 ## Audio & Speech
 
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
