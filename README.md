@@ -70,6 +70,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free, Credits system
   - **Contact**: https://x.com/alttextlab
 
+- [FreeUpscaler](https://freeupscaler.app) - Free AI image and video upscaler that runs in your browser.
+    - **Tags**: `Free` `AI Upscaler` `Image Upscaler` `Video Upscaler` `Photo Enhancer` `Privacy`
+      - **Pricing**: Free
+        - **Contact**: https://freeupscaler.app
+
 ## Audio & Speech
 
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
